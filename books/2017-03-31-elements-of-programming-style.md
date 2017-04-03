@@ -54,7 +54,7 @@ One of the most productive ways to make a program easier to understand is to red
 
 The inversion and double parentheses slow comprehension. Example
 
-```
+```java
 if (!(foo == false || bar == false)) {
   //...
 }
@@ -62,7 +62,7 @@ if (!(foo == false || bar == false)) {
 
 Apply Morgan's rules
 
-```
+```java
 !(A || B) == !A && !B
 !(A && B) == !A || !B
 ```
@@ -79,7 +79,7 @@ A computer program is shaped by its data representation and the statements that 
 
 Be careful when tests might overlap.
 
-```
+```java
 if (hoursWorked <= 40)
   return registerPay();
 if (hoursWorked >= 40)
@@ -88,7 +88,7 @@ if (hoursWorked >= 40)
 
 An `IF-ELSE` ensures that someone reading the code can see that only one thing is done.
 
-```
+```java
 if (hoursWorked <= 40) {
   return registerPay();
 } else {
@@ -102,7 +102,7 @@ It is a good rule of thumb that a program should read from top to bottom in the 
 
 ### Use `IF ... ELSE IF ... ELSE IF ... ELSE ..` to implement multi-way branches.
 
-```
+```java
 if (amountOfSales <= 50) {
   commission = 0;
 }
@@ -118,7 +118,7 @@ if (amountOfSales > 100) {
 
 Better to write
 
-```
+```java
 if (amountOfSales <= 50) {
   commission = 0;
 } else if (amountOfSales <= 100) {
@@ -211,7 +211,7 @@ Once a program works, we need no longer concern ourselves with how it does somet
 
 ### Make sure input cannot violate the limits of the program
 
-### Identify bad input; recover if possible
+### Identify bad input, recover if possible
 
 ### Make input easy to prepare and output self-explanatory
 
