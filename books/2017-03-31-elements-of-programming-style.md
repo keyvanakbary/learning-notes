@@ -44,28 +44,32 @@
 
   * ### Choose variable names that won't be confused
 
-    One of the most productive ways to make a program easier to understand is to reduce the degree of interdependence between statements, so that each part can be studied and understood in relative isolation.
-
   * ### Avoid unnecessary branches
+  
+    One of the most productive ways to make a program easier to understand is to reduce the degree of interdependence between statements, so that each part can be studied and understood in relative isolation.
 
   * ### Use the good features of a language, avoid the bad ones
 
   * ### Don't use conditional branches as a substitute for a logical expression
 
-    The inversion and double parentheses slow comprehension. Example
+---
 
-    ```java
-    if (!(foo == false || bar == false)) {
-      //...
-    }
-    ```
+The inversion and double parentheses slow comprehension. Example
 
-    Apply Morgan's rules
+```java
+if (!(foo == false || bar == false)) {
+  //...
+}
+```
 
-    ```java
-    !(A || B) == !A && !B
-    !(A && B) == !A || !B
-    ```
+Apply Morgan's rules
+
+```java
+!(A || B) == !A && !B
+!(A && B) == !A || !B
+```
+
+---
 
   * ### Use the "telephone test" for readability
 
@@ -75,7 +79,7 @@
 
 A computer program is shaped by its data representation and the statements that determine its flow of control. We will concentrate on matters of style that affect the program as a whole.
 
-  * ### Use IF-ELSE to emphasize that only one o f two actions is to be performed
+  * ### Use `IF-ELSE` to emphasize that only one of two actions is to be performed
 
     Be careful when tests might overlap.
 
@@ -379,7 +383,7 @@ Code must largely document itself. If it cannot, rewrite the code rather than in
 
 Programmers have a strong tendency to underrate the importance of good style. Eternally optimistic, we all like to think that once we throw a piece of code together, however haphazardly, it will work properly the first time and ever after.
 
-One excuse for writing an unintelligible program is that it is a private matter. It is the same justification you use for writing "qt milk, fish, big box" for a grocery list instead of composing a proper sentence. If the list is intended for someone else, of course, you had better specify what kind of fish you want and what should be inside that big box. But even if only you personally want to understand the message, if it is to be readable a year from now you must write a complete sentence. So in your diary you might write, "Today I went to the supermarket and bought a quart of milk, a pound of halibut, and a big box of raisins."
+One excuse for writing an unintelligible program is that it is _a private matter_. It is the same justification you use for writing "qt milk, fish, big box" for a grocery list instead of composing a proper sentence. If the list is intended for someone else, of course, you had better specify what kind of fish you want and what should be inside that big box. But even if only you personally want to understand the message, if it is to be readable a year from now you must write a complete sentence. So in your diary you might write, "Today I went to the supermarket and bought a quart of milk, a pound of halibut, and a big box of raisins."
 You learn to write as if to someone else because next year you will be "someone else."
 
-"Style" is not a list of rules so much as an approach and an attitude. "Good programmers" are those who already have learned a set of rules that ensures good style.
+**"Style" is not a list of rules so much as an approach and an attitude. "Good programmers" are those who already have learned a set of rules that ensures good style.**
