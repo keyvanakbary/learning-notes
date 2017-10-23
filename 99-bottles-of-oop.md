@@ -115,18 +115,18 @@ In the ["Transformation Priority Premise"](https://8thlight.com/blog/uncle-bob/2
 
 Transformations are arranged in "priority" order, from simpler to more complex.
 
-> `({}–>nil)` no code at all->code that employs nil
-> `(nil->constant)`
-> `(constant->constant+)` a simple constant to a more complex constant
-> `(constant->scalar)` replacing a constant with a variable or an > argument
-> `(statement->statements)` adding more unconditional statements.
-> `(unconditional->if)` splitting the execution path
-> `(scalar->array)`
-> `(array->container)`
-> `(statement->recursion)`
-> `(if->while)`
-> `(expression->function)` replacing an expression with a function or algorithm
-> `(variable->assignment)` replacing the value of a variable.
+> 1. `({}–>nil)` no code at all->code that employs nil
+> 2. `(nil->constant)`
+> 3. `(constant->constant+)` a simple constant to a more complex constant
+> 4. `(constant->scalar)` replacing a constant with a variable or an > argument
+> 5. `(statement->statements)` adding more unconditional statements.
+> 6. `(unconditional->if)` splitting the execution path
+> 7. `(scalar->array)`
+> 8. `(array->container)`
+> 9. `(statement->recursion)`
+> 10. `(if->while)`
+> 11. `(expression->function)` replacing an expression with a function or algorithm
+> 12. `(variable->assignment)` replacing the value of a variable.
 
 ### Tolerating duplication
 
