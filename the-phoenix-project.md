@@ -105,23 +105,23 @@ The wait time is the "percentage of time busy" divided by the "percentage of tim
 
 If a resource is ninety percent busy, the wait time is "ninety percent divided by ten percent", or nine hours. A task would wait in the queue nine times longer than if the resource were fifty percent idle.
 
-    Wait time = %busy / %idle
+    WAIT TIME = %BUSY / %IDLE
 
     WAIT TIME
 
-    100 |                             X
-     90 |                             X
-     80 |                             X
-     70 |                             X
-     60 |                             X
-     50 |                             X
-     40 |                            X
-     30 |                           X  
-     20 |                         XX   
-     10 |                     XXXX
-        |XXXXXXXXXXXXXXXXXXXXX
-      0 +--+--+--+--+--+--+--+--+--+--+ % RESOURCE BUSY
-           10 20 30 40 50 60 70 80 90 100
+    100 ┤                             ■
+     90 ┤                             ■
+     80 ┤                             ■
+     70 ┤                             ■
+     60 ┤                             ■
+     50 ┤                             ■
+     40 ┤                            ■
+     30 ┤                           ■  
+     20 ┤                         ■■   
+     10 ┤                     ■■■■
+        ┤■■■■■■■■■■■■■■■■■■■■■
+        └──┬──┬──┬──┬──┬──┬──┬──┬──┬──┬── % RESOURCE BUSY
+      0    10 20 30 40 50 60 70 80 90 100
 
 Creating and prioritising work inside a department is hard. Managing work among departments must be at least ten times more difficult.
 
