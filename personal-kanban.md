@@ -347,18 +347,20 @@ Work unseen is work uncontrolled and we can't (and shouldn't) do more work than 
 
 The Sequestering Approach is specifically designed to deal with repetitive tasks in an elegant way. Repetitive tasks can clutter your Kanban and create wasteful overhead. Consider giving repetitive tasks their own visualisation and WIP treatment. Sequester them in a dedicated area of your Kanban. When a task is complete, simply check that day's box.
 
-    READY | DOING (3) | DONE
-    ------|-----------|-----
-          |           |
-          |           |
-    ----------------------------------
-    RECURRING TASKS
-    ----------------------------------
-    ITEM     | REPEAT  | LAST | NEXT | DONE
-    ---------|---------|------|------|-----
-    Standup  | DAILY   |  --  |  --  |  X
-    Meeting  | MONTHLY | 6/15 | 7/15 |  X
-    Check in | MONTHLY | 6/20 | 7/20 |
+    ┌───────┬───────────┬──────┐
+    │ READY │ DOING (3) │ DONE │
+    ├───────┼───────────┼──────┤
+    │       │           │      │
+    ·       ·           ·      ·
+    ┌─────────────────────────────────────────┐
+    │ RECURRING TASKS                         │
+    ├──────────┬─────────┬──────┬──────┬──────┤
+    │ ITEM     │ REPEAT  │ LAST │ NEXT │ DONE │
+    ├──────────┼─────────┼──────┼──────┼──────┤
+    │ STANDUP  │ DAILY   │  ──  │  ──  │  X   │
+    │ MEETING  │ MONTHLY │ 6/15 │ 7/15 │  X   │
+    │ CHECK IN │ MONTHLY │ 6/20 │ 7/20 │      │
+    ·          ·         ·      ·      ·      ·
 
 ### Emergency response approach: taming unexpected workloads
 
