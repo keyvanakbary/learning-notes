@@ -922,32 +922,32 @@ Any regular get-together is suspect as likely to have a ceremonial purpose rathe
 Projects begin with planning and design, activities that are best carried out by smallish team. For a two-year project, the bulk of the staff would not come on board until the project is six months to a year underway.
 
     PEOPLE
-    |                     +++++  |
-    |                  +++     ++|
-    |                ++          |
-    |              ++            |
-    |   +++++++++++              |
-    +--+-------------------------+-------- TIME
+    │                     ■■■■■  │
+    │                  ■■■░░░░░■■│
+    │                ■■░░░░░░░░░░│
+    │              ■■░░░░░░░░░░░░│
+    │   ■■■■■■■■■■■░░░░░░░░░░░░░░│
+    └──┬─────────────────────────┼──────── TIME
        BEGIN                     END
 
 
     PEOPLE
-    |                  |  +++++  |
-    |                  +++:::::++|
-    |                ++|:::::::::|  EFORT THAT COULD
-    |              ++  |:::::::::|  NOT BE APPLIED
-    |   +++++++++++    |:::::::::|
-    +--+---------------+---------+-------- TIME
+    │                  │  ■■■■■  │
+    │                  ■■■▒▒▒▒▒■■│
+    │                ■■│▒▒▒▒▒▒▒▒▒│  EFORT THAT COULD
+    │              ■■░░│▒▒▒▒▒▒▒▒▒│  NOT BE APPLIED
+    │   ■■■■■■■■■■■░░░░│▒▒▒▒▒▒▒▒▒│
+    └──┬───────────────┼─────────┼──────── TIME
        BEGIN           IMPOSED DEADLINE
 
 
     PEOPLE
-    |  |   +++++++++++++
-    |  |  +::::::::::::+ SAME EFFORT
-    |  | +:::::::::::++| APPLIED EARLIER
-    |  | +:::::::::++  |
-    |  |+++++++++++    |
-    +--+---------------+------------------ TIME
+    │  │   ■■■■■■■■■■■■■
+    │  │  ■▒▒▒▒▒▒▒▒▒▒▒▒■ SAME EFFORT
+    │  │ ■▒▒▒▒▒▒▒▒▒▒▒■■│ APPLIED EARLIER
+    │  │ ■▒▒▒▒▒▒▒▒▒■■░░│
+    │  │■■■■■■■■■■■░░░░│
+    └──┼───────────────┼────────────────── TIME
        BEGIN           IMPOSED DEADLINE
 
 Early added effort would just be wasted.
