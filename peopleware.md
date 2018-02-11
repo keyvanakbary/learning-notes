@@ -934,7 +934,7 @@ Projects begin with planning and design, activities that are best carried out by
     PEOPLE
     │                  │  ■■■■■  │
     │                  ■■■▒▒▒▒▒■■│
-    │                ■■│▒▒▒▒▒▒▒▒▒│  EFORT THAT COULD
+    │                ■■│▒▒▒▒▒▒▒▒▒│  EFFORT THAT COULD
     │              ■■░░│▒▒▒▒▒▒▒▒▒│  NOT BE APPLIED
     │   ■■■■■■■■■■■░░░░│▒▒▒▒▒▒▒▒▒│
     └──┬───────────────┼─────────┼──────── TIME
