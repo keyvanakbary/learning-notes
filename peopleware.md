@@ -405,18 +405,18 @@ Alexander proposes a facility can grow in an evolutionary fashion.
 
 Individual modules give poor-quality space to the person working alone and no space at all to the team. Each team needs identifiable public and semiprivate space. Each individual needs protected private space.
 
-    +-------------------------------------+
-    |  GEORGE      +-+  +-+  CONFERENCE   |
-    |  +--+       +--------+ TABLE        |
-    | ++  |       |        |      STEVE   |
-    | ++  |       +--------+      +--+    |
-    |  +--+        +-+  +-+     +------+  |
-    |                           +------+  |
-    |  READING  +    ARIA    +------------+
-    |  AREA     |    +--+    |
-    |  ++   ++  |  +------+  |
-    |  ++   ++  |  +------+  |
-    +-----------+------------+
+    ╔═════════════════════════════════════╗
+    ║  GEORGE      ┌─┐  ┌─┐  CONFERENCE   ║
+    ║  ┌──┐       ┌┴─┴──┴─┴┐ TABLE        ║
+    ║ ┌┤  │       │        │      STEVE   ║
+    ║ └┤  │       └┬─┬──┬─┬┘      ┌──┐    ║
+    ║  └──┘        └─┘  └─┘     ┌─┴──┴─┐  ║
+    ║                           └──────┘  ║
+    ║  READING  ║    ARIA    ╔════════════╝
+    ║  AREA     ║    ┌──┐    ║
+    ║  ┌─┐ ┌─┐  ║  ┌─┴──┴─┐  ║
+    ║  └─┘ └─┘  ║  └──────┘  ║
+    ╚═══════════╩════════════╝
 
 ##### Windows
 
@@ -1026,20 +1026,20 @@ When we argue logically for change, one tactic is to contrast how the new world 
 
 Naive model of how change happens
 
-    +--------+                      +--------+
-    | OLD    |                      | NEW    |
-    | STATUS +--------------------->| STATUS |
-    | QUO    |          ^           | QUO    |
-    +--------+     A BETTER IDEA    +--------+
+    ┌────────┐                      ┌────────┐
+    │ OLD    │                      │ NEW    │
+    │ STATUS ├─────────────────────→│ STATUS │
+    │ QUO    │          ↑           │ QUO    │
+    └────────┘     A BETTER IDEA    └────────┘
 
 
 Satir's change model
 
-    +--------+         +-------+              +-------------+   +--------+
-    | OLD    |         |       |              | PRACTICE    |   | NEW    |
-    | STATUS +-------->| CHAOS +------------->| AND         +-->| STATUS |
-    | QUO    |    ^    |       |       ^      | INTEGRATION |   | QUO    |
-    +--------+ FOREIGN +-------+ TRANSFORMING +-------------+   +--------+
+    ┌────────┐         ┌───────┐              ┌─────────────┐   ┌────────┐
+    │ OLD    │         │       │              │ PRACTICE    │   │ NEW    │
+    │ STATUS ├────────→│ CHAOS ├─────────────→│ AND         ├──→│ STATUS │
+    │ QUO    │    ↑    │       │       ↑      │ INTEGRATION │   │ QUO    │
+    └────────┘ FOREIGN └───────┘ TRANSFORMING └─────────────┘   └────────┘
                ELEMENT           IDEA
 
 Change involves at least the four stages. Change happens upon the introduction of a foreign element: a catalyst for change.
