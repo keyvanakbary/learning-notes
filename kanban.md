@@ -190,11 +190,13 @@ For teams that are distributed geographically, or those who have policies that a
 Two or more activities can happen concurrently. There are two ways for coping with this.
 * One is not to model it at all; just leave a single column where both activities can occur together. Using different colours or shapes of ticket to show the different activities.
 * The other option is to split the board vertically into two (or more) sections
-        ┌─────────────┬────────────────┬────────────────┬────────────┐
-        │ INPUT QUEUE │   ANALYSIS     │ DEV & TEST DEV │ TEST READY │
-        ├─────────────┼─────────┬──────┼─────────┬──────┼────────────┤
-        │             │ IN PROG │ DONE │ IN PROG │ DONE │            │
-        ·             ·         ·      ·         ·      ·            ·
+  ```
+  ┌─────────────┬────────────────┬────────────────┬────────────┐
+  │ INPUT QUEUE │   ANALYSIS     │ DEV & TEST DEV │ TEST READY │
+  ├─────────────┼─────────┬──────┼─────────┬──────┼────────────┤
+  │             │ IN PROG │ DONE │ IN PROG │ DONE │            │
+  ·             ·         ·      ·         ·      ·            ·
+  ```
 
 ### Coping with unordered activities
 
