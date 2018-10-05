@@ -4,87 +4,84 @@
 
 1. ### Form the possessive singular of nouns with 's.
 
-  > Charlie**'s** friend
+    > Charlie<b>'s</b> friend
 
-  > Burn**'s** poems
+    > Burn<b>'s</b> poems
 
-  Exceptions are possesives of ancient names in _-es_ and _-is_.
+    Exceptions are possesives of ancient names in _-es_ and _-is_.
 
-  > Achilles' heel
+    > Achilles' heel
 
-  > Moses' laws
+    > Moses' laws
 
-  Commonly replaced by
+    Commonly replaced by
 
-  > The heel of Achilles
+    > The heel of Achilles
 
-  > The laws of Moses
+    > The laws of Moses
 
 2. ### In a series of three or more terms with a single conjunction, use a comma after each term except the last.
 
-  > red**,** white**,** and blue
+    > red<b>,</b> white<b>,</b> and blue
 
-  > honest**,** energic**,** but headstrong
+    > honest<b>,</b> energic<b>,</b> but headstrong
 
-  In names of businesses firms the last comma is ommited
+    In names of businesses firms the last comma is ommited
 
-  > Brown**,** Shipley and Company
+    > Brown<b>,</b> Shipley and Company
 
-  **_etc.,_** even if is a single word it always comes preceded by a comma.
+    **_etc.,_** even if is a single word it always comes preceded by a comma.
 
 3. ### Enclose parenthesic expressions between commas.
 
-  > The best way to see a country**, unless are pressed for time,** is to travel on foot.
+    > The best way to see a country<b>, unless are pressed for time,</b> is to travel on foot.
 
-  If the interruption to the flow of the sentence is but slight, the writer may safely omit one or the other comma.
+    If the interruption to the flow of the sentence is but slight, the writer may safely omit one or the other comma.
 
-  > Marjorie's husband**, Colonel Nelson** paid us a visit yesterday,
+    > Marjorie's husband<b>, Colonel Nelson</b> paid us a visit yesterday,
 
-  or
+    or
 
-  > My brother **you will be pleased to hear,** is now in perfect health,
+    > My brother **you will be pleased to hear,** is now in perfect health,
 
 4. ### Place a comma before _and_ or _but_ introducing an independent clause.
 
-  >The early records of the city have disappeared**, and** the story of its first years can no longer be reconstructed.
+    > The early records of the city have disappeared<b>, and</b> the story of its first years can no longer be reconstructed.
 
-  >The situation is perilous**, but** there is still one chance of escape.
+    > The situation is perilous<b>, but</b> there is still one chance of escape.
 
 5. ### Do not join independent clauses by a comma.
 
-  The proper mark of punctuation is a semicolon
+    The proper mark of punctuation is a semicolon
 
-  > Stevenson's romances are entertaining**;** they are full of exciting adventures.
+    > Stevenson's romances are entertaining<b>;</b> they are full of exciting adventures.
 
-  > It is nearly half past five**;** we cannot reach town before dark.
+    > It is nearly half past five<b>;</b> we cannot reach town before dark.
 
-  It is also correct ro replace semicolons with periods.
+    It is also correct ro replace semicolons with periods.
 
-  If a conjuntion is inserted the proper punctuation is a comma.
+    If a conjuntion is inserted the proper punctuation is a comma.
 
-  > Stevenson's romances are entertaining**,** for they are full of exciting adventures.
+    > Stevenson's romances are entertaining<b>,</b> for they are full of exciting adventures.
 
 6. ### Do not break sentences in two.
 
-  Or basically, don't use periods as commas.
+    Or basically, don't use periods as commas.
 
 7. ### A participial phrase at the beginning of a sentence must refer to the grammatical subject.
 
-  > **Walking slowly down the road**, **he saw** a woman accompanied by two children.
+    > **Walking slowly down the road**, **he saw** a woman accompanied by two children.
 
 8. ### Divide words at line-ends, in accordance with their formation and pronunciation.
 
-  A. Devide the word according to its formation
+    A. Devide the word according to its formation
+      > know-ledge, de-scribe, atmo-sphere
 
-    > know-ledge, de-scribe, atmo-sphere
+    B. Devide on the vowels
+      > edi-ble, propo-sition, ordi-nary
 
-  B. Devide on the vowels
-
-    > edi-ble, propo-sition, ordi-nary
-
-  C. Devide between double letters
-
-    > apen-nines, Cincin-nati, refer-ring; but tell-ing
+    C. Devide between double letters
+      > apen-nines, Cincin-nati, refer-ring; but tell-ing
 
 ## Elementary principles of composition
 
@@ -92,83 +89,83 @@
 
 2. ### As a rule, begin each paragraph with a topic sentence; end it in conformity with the beginning.
 
-  Ending with a digression, or with an unimportant detail, is particularly to be avoided.
+    Ending with a digression, or with an unimportant detail, is particularly to be avoided.
 
 3. ### Use the active voice.
 
-  The active voice is usually more direct and vigorous than the passive.
+    The active voice is usually more direct and vigorous than the passive.
 
-  > **I shall always remember my first visit to Boston.**
+    > **I shall always remember my first visit to Boston.**
 
-  Is much better than
+    Is much better than
 
-  > My first visit to Boston will always be remembered by me.
+    > My first visit to Boston will always be remembered by me.
 
 4. ### Put statements in positive form.
 
-  Make definite assertions. Avoid tame, colorless, hesitating, non-committal language.
+    Make definite assertions. Avoid tame, colorless, hesitating, non-committal language.
 
-  > He was not very often on time.
+    > He was not very often on time.
 
-  > **He usually came late.**
+    > **He usually came late.**
 
-  > He did not think that studying Latin was much use.
+    > He did not think that studying Latin was much use.
 
-  > **He thought the study of Latin useless.**
+    > **He thought the study of Latin useless.**
 
-  It is better to express a negative in positive form.
+    It is better to express a negative in positive form.
 
-  > not honest, **dishonest**
+    > not honest, **dishonest**
 
-  > not important, **trifling**
+    > not important, **trifling**
 
-  > did not remember, **forgot**
+    > did not remember, **forgot**
 
 5. ### Omit needless words.
 
-  > the question as to whether, **whether**
+    > the question as to whether, **whether**
 
-  > there is no doubt but that, **no doubt**
+    > there is no doubt but that, **no doubt**
 
-  > used for fuel purposes, **used for fuel**
+    > used for fuel purposes, **used for fuel**
 
-  > he is a man who, **he**
+    > he is a man who, **he**
 
 6. ### Avoid a succession of loose sentences.
 
-  Loose sentences of a particular type, those consisting of two co-ordinate clauses, the second introduced by a conjunction or relative. Although single sentences of this type may be unexceptionable (see under Rule 4), a series soon becomes monotonous and tedious.
+    Loose sentences of a particular type, those consisting of two co-ordinate clauses, the second introduced by a conjunction or relative. Although single sentences of this type may be unexceptionable (see under Rule 4), a series soon becomes monotonous and tedious.
 
 7. ### Express co-ordinate ideas in similar form.
 
-  > The French, the Italians, Spanish, and Portuguese – Bad
+    > The French, the Italians, Spanish, and Portuguese – Bad
 
-  > **The** French, **the** Italians, **the** Spanish, and **the** Portuguese – Good
+    > **The** French, **the** Italians, **the** Spanish, and **the** Portuguese – Good
 
-  > In spring, summer, or in winter – Bad
+    > In spring, summer, or in winter – Bad
 
-  > **In** spring**,** summer**,** or winter – Good
+    > **In** spring<b>,</b> summer<b>,</b> or winter – Good
 
 8. ### Keep related words together.
 
-  > **Wordsworth**, in the fifth book of The Excursion, **gives a minute description of this church**. – Bad
+    > **Wordsworth**, in the fifth book of The Excursion, **gives a minute description of this church**. – Bad
 
-  > In the fifth book of The Excursion, **Wordsworth gives a minute description of this church**. – Good
+    > In the fifth book of The Excursion, **Wordsworth gives a minute description of this church**. – Good
 
-  > **Cast iron**, when treated in a Bessemer converter, is **changed into steel**. – Bad
+    > **Cast iron**, when treated in a Bessemer converter, is **changed into steel**. – Bad
 
-  > By treatment in a Bessemer converter, **cast iron** is **changed into steel**. – Good
+    > By treatment in a Bessemer converter, **cast iron** is **changed into steel**. – Good
 
 9. ### In summaries, keep to one tense.
 
-  In summarizing the action of a drama, the writer should always use the present tense. In summarizing a poem, story, or novel, he should preferably use the present, though he may use the past if he prefers.
+    In summarizing the action of a drama, the writer should always use the present tense. In summarizing a poem, story, or novel, he should preferably use the present, though he may use the past if he prefers.
 
 10. ### Place the emphatic words of a sentence at the end.
 
-  The proper place for the word, or group of words, which the writer desires to make most prominent is usually the end of the sentence.
+    The proper place for the word, or group of words, which the writer desires to make most prominent is usually the end of the sentence.
 
-  > Humanity **has hardly advanced in fortitude** since that time, though it has advanced in many other ways. – Bad
+    > Humanity **has hardly advanced in fortitude** since that time, though it has advanced in many other ways. – Bad
 
-  > Humanity, since that time, has advanced in many other ways, but it **has hardly advanced in fortitude.** – Good
+    > Humanity, since that time, has advanced in many other ways, but it **has hardly advanced in fortitude.** – Good
 
 ## A few matters of form
 
@@ -178,11 +175,11 @@
 - **Quotations**.
   - Formal quotations as documentary evidence with semicolon an quotation marks
 
-    > The provision of the Constitution is**: "**No tax or duty shall be laid on articles exported from any state.**"**
+    > The provision of the Constitution is<b>: "No tax or duty shall be laid on articles exported from any state."</b>
 
   - Quotations grammatically in apposition or the direct objects of verbs are preceded by a comma with quotation marks
 
-    > Aristotle says**, "**Art is an imitation of nature.**"**
+    > Aristotle says<b>, "Art is an imitation of nature."</b>
 
   - Quotations of an entire line, or more, of verse, are begun on a fresh line and centred, but not enclosed in quotation marks.
   - Proverbial expressions and familiar phrases of literary origin require no quotation marks.
