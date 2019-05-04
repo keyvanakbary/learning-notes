@@ -27,6 +27,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 - [How to Make a Sandwich, Dan North](talks/how-to-make-a-sandwich.md)
 - [Grinding the Monolith, Michael Nygard, 2018](talks/grinding-the-monolith.md)
 - [Refactoring, from good to great, Ben Orenstein, 2012](talks/refactoring-from-good-to-great.md)
+- [The Mess We Are In, Joe Armstrong, 2014](talks/the-mess-we-are-in.md)
 
 ## Articles
 
