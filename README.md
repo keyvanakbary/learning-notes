@@ -19,6 +19,7 @@ Taking notes on books I read, talks I watch and articles I study, recalling them
 - [The Manager's Path](books/the-managers-path.md)
 - [The Phoenix Project](books/the-phoenix-project.md)
 - [The Subtle Art of Not Giving a Fuck](books/the-subtle-art-of-not-giving-a-fuck.md)
+- [Understanding the Four Rules of Simple Design](books/understanding-the-four-rules-of-simple-design.md)
 
 If you are interested in the books I read, [follow me in Goodreads](https://www.goodreads.com/keyvanakbary).
 
