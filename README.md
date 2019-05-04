@@ -1,6 +1,6 @@
 # Learning notes
 
-Taking notes on books I read, recalling them right afterwards by creating short summaries, helps a lot on my learning process. Here you'll find some of those little pieces.
+Taking notes on books I read, talks I watch and articles I study, recalling them right afterwards by creating short summaries, helps a lot on my learning process. Here you'll find some of those little pieces.
 
 ## Books
 
@@ -21,3 +21,7 @@ Taking notes on books I read, recalling them right afterwards by creating short 
 - [The Subtle Art of Not Giving a Fuck](books/the-subtle-art-of-not-giving-a-fuck.md)
 
 If you are interested in the books I read, [follow me in Goodreads](https://www.goodreads.com/keyvanakbary).
+
+## Talks
+
+- [How to Make a Sandwich](talks/how-to-make-a-sandwich.md)
