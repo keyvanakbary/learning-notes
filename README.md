@@ -2,39 +2,37 @@
 
 Taking notes on books I read, talks I watch and articles I study, recalling them right afterwards by creating short summaries, helps a lot on my learning process. Here you'll find some of those little pieces.
 
-### Books
+### Book notes
 
-- [99 Bottles of OOP – Sandi Metz, Katrina Owen. 2016](books/99-bottles-of-oop.md)
-- [Distributed Systems Observability – Cindy Sridharan. 2018](books/distributed-systems-observability.md)
-- [Effective Java –  Joshua Bloch. 2001](books/effective-java.md)
-- [Elements of Programming Style – Brian W. Kernighan, P.J. Plauger. 1988](books/elements-of-programming-style.md)
-- [How to Win Friends and Influence People – Dale Carnegie. 1936](books/how-to-win-friends-and-influence-people.md)
-- [Kanban – David J. Anderson. 2010](books/kanban.md)
-- [Lean Startup – Eric Ries. 2011](books/lean-startup.md)
-- [Peopleware – Tom DeMarco, Timothy R. Lister. 1999](books/peopleware.md)
-- [Personal Kanban – Jim Benson, Tonianne DeMaria Barry. 2011](books/personal-kanban.md)
-- [Screw It, Let's Do It – Richard Branson. 2006](books/screw-it-lets-do-it.md)
-- [Test Driven Development – Kent Beck. 2002](books/test-driven-development.md)
-- [The Elements of Style – William Strunk Jr., E.B. White. 1918](books/the-elements-of-style.md)
-- [The Manager's Path – Camille Fournier. 2017](books/the-managers-path.md)
-- [The Phoenix Project – Gene Kim, Kevin Behr, George Spafford. 2013](books/the-phoenix-project.md)
-- [The Subtle Art of Not Giving a Fuck – Mark Manson. 2016](books/the-subtle-art-of-not-giving-a-fuck.md)
-- [Understanding the Four Rules of Simple Design – Corey Haines. 2014](books/understanding-the-four-rules-of-simple-design.md)
+* [99 Bottles of OOP](books/99-bottles-of-oop.md) by **Sandi Metz** and **Katrina Owen**, 2016.
+* [Distributed Systems Observability ](books/distributed-systems-observability.md) by **Cindy Sridharan**, 2018.
+* [Effective Java](books/effective-java.md) by **Joshua Bloch**, 2001.
+* [Elements of Programming Style](books/elements-of-programming-style.md) by **Brian W. Kernighan** and **P.J. Plauger**, 1988.  
+* [How to Win Friends and Influence People](books/how-to-win-friends-and-influence-people.md) by **Dale Carnegie**, 1936.
+* [Kanban](books/kanban.md) by **David J. Anderson**, 2010.
+* [Lean Startup](books/lean-startup.md) by **Eric Ries**, 2011.
+* [Peopleware](books/peopleware.md) by **Tom DeMarco** and **Timothy R. Lister**, 1999.
+* [Personal Kanban](books/personal-kanban.md) by **Jim Benson** and **Tonianne DeMaria Barry**, 2011.
+* [Screw It, Let's Do It](books/screw-it-lets-do-it.md) by **Richard Branson**, 2006.
+* [Test Driven Development](books/test-driven-development.md) by **Kent Beck**, 2002.
+* [The Elements of Style](books/the-elements-of-style.md) by **William Strunk Jr.** and **E.B. White**, 1918.
+* [The Manager's Path](books/the-managers-path.md) by **Camille Fournier**, 2017.
+* [The Phoenix Project](books/the-phoenix-project.md) by **Gene Kim**, **Kevin Behr** and **George Spafford**, 2013.
+* [The Subtle Art of Not Giving a Fuck](books/the-subtle-art-of-not-giving-a-fuck.md) by **Mark Manson**, 2016.
+* [Understanding the Four Rules of Simple Design](books/understanding-the-four-rules-of-simple-design.md) by **Corey Haines**, 2014.
 
 If you are interested in the books I read, [follow me in Goodreads](https://www.goodreads.com/keyvanakbary).
 
-### Talks
+### Talk notes
 
-- [How to Make a Sandwich – Dan North. 2016](talks/how-to-make-a-sandwich.md)
-- [Grinding the Monolith – Michael Nygard. 2018](talks/grinding-the-monolith.md)
-- [Refactoring, from good to great – Ben Orenstein. 2012](talks/refactoring-from-good-to-great.md)
-- [The Mess We Are In – Joe Armstrong. 2014](talks/the-mess-we-are-in.md)
+* [How to Make a Sandwich](talks/how-to-make-a-sandwich.md) by **Dan North**, 2016.
+* [Grinding the Monolith](talks/grinding-the-monolith.md) by **Michael Nygard**, 2018.
+* [Refactoring, from good to great](talks/refactoring-from-good-to-great.md) by **Ben Orenstein**, 2012.
+* [The Mess We Are In](talks/the-mess-we-are-in.md) by **Joe Armstrong**, 2014.
 
-### Articles
+### Article notes
 
-- [Microservices – Martin Fowler. 2014](articles/microservices.md)
-
----
+* [Microservices](articles/microservices.md) by **Martin Fowler**, 2014.  
 
 ## Contributing
 
