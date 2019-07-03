@@ -30,6 +30,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [Grinding the Monolith](talks/grinding-the-monolith.md) by **Michael Nygard**, 2018.
 * [How to Make a Sandwich](talks/how-to-make-a-sandwich.md) by **Dan North**, 2016.
 * [Refactoring, from good to great](talks/refactoring-from-good-to-great.md) by **Ben Orenstein**, 2012.
+* [Rethinking the developer career path](talks/rethinking-the-developer-career-path.md) by **Randall Koutnik**, 2017.
 * [TDD, where did it all go wrong](talks/tdd-where-did-it-all-go-wrong.md) by **Ian Cooper**, 2013.
 * [The Mess We Are In](talks/the-mess-we-are-in.md) by **Joe Armstrong**, 2014.
 
