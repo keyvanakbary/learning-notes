@@ -1,5 +1,17 @@
 # [Test-Driven Development](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
 
+- [TDD videos](#tdd-videos)
+- [Preface](#preface)
+- [Money session](#money-session)
+- [Xunit session](#xunit-session)
+- [Test-Driven Development Patterns](#test-driven-development-patterns)
+- [Red bar patterns](#red-bar-patterns)
+- [Red bar patterns](#red-bar-patterns-1)
+- [Green bar patterns](#green-bar-patterns)
+- [Design patterns](#design-patterns)
+- [Refactoring](#refactoring)
+- [Mastering TDD](#mastering-tdd)
+
 ## TDD videos
 
 I skipped the TDD sessions in the book, _Money Pattern_ with Java and _implementing xUnit_ with Python, so the summary can focus on the learnings. Some interesting videos on TDD

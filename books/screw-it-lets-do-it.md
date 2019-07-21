@@ -1,5 +1,15 @@
 # [Screw It, Let's Do It](https://www.goodreads.com/book/show/198863.Screw_It_Let_s_Do_It)
 
+- [Just do it](#just-do-it)
+- [Have fun](#have-fun)
+- [Be bold](#be-bold)
+- [Challenge yourself](#challenge-yourself)
+- [Stand on your own feet](#stand-on-your-own-feet)
+- [Live the moment](#live-the-moment)
+- [Value family and friends](#value-family-and-friends)
+- [Have respect](#have-respect)
+- [Do some good](#do-some-good)
+
 ## Just do it
 
 - Believe It Can Be Done

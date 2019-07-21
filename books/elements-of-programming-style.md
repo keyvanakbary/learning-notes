@@ -1,5 +1,15 @@
 # [The Elements of Programming Style](https://www.goodreads.com/book/show/454039.The_Elements_of_Programming_Style)
 
+- [Introduction](#introduction)
+- [Expression](#expression)
+- [Control structure](#control-structure)
+- [Program structure](#program-structure)
+- [Input and output](#input-and-output)
+- [Common blunders](#common-blunders)
+- [Efficiency and instrumentation](#efficiency-and-instrumentation)
+- [Documentation](#documentation)
+- [Epilogue](#epilogue)
+
 ## Introduction
 
   * ### Write clearly, don't be too clever

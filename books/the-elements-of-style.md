@@ -1,5 +1,10 @@
 # [The Elements of Style](https://www.goodreads.com/book/show/33514.The_Elements_of_Style)
 
+- [Elementary rules of usage](#elementary-rules-of-usage)
+- [Elementary principles of composition](#elementary-principles-of-composition)
+- [A few matters of form](#a-few-matters-of-form)
+- [Words and expressions commonly misused](#words-and-expressions-commonly-misused)
+
 ## Elementary rules of usage
 
 1. ### Form the possessive singular of nouns with 's.

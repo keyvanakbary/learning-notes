@@ -1,5 +1,15 @@
 # [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 
+- [Management 101](#management-101)
+- [Mentoring](#mentoring)
+- [Tech lead](#tech-lead)
+- [Managing people](#managing-people)
+- [Managing a team](#managing-a-team)
+- [Managing multiple teams](#managing-multiple-teams)
+- [Managing managers](#managing-managers)
+- [The big leagues](#the-big-leagues)
+- [Bootstraping culture](#bootstraping-culture)
+
 Engineering management is not just about people management. Hands-on expertise gives you credibility and helps leading your team effectively.
 
 ## Management 101

@@ -1,5 +1,8 @@
 # [Understanding the Four Rules of Simple Design](https://www.goodreads.com/book/show/21841698-understanding-the-four-rules-of-simple-design)
 
+- [Coderetreats](#coderetreats)
+- [4 rules of simple design](#4-rules-of-simple-design)
+
 The idea of "Good Design" can often lead to a feeling that there is a pinnacle. Prefer to talk about "Better Design".
 
 The one constant that we know for sure in software development is that things are going to change.

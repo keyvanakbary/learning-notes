@@ -1,5 +1,16 @@
 # [Personal Kanban](https://www.goodreads.com/book/show/10419045-personal-kanban)
 
+- [Introduction](#introduction)
+- [The basics of Personal Kanban](#the-basics-of-personal-kanban)
+- [Building your first Personal Kanban](#building-your-first-personal-kanban)
+- [My time management is in the league with the freeway](#my-time-management-is-in-the-league-with-the-freeway)
+- [Natural flows](#natural-flows)
+- [Components of a quality life](#components-of-a-quality-life)
+- [Ending our priorities](#ending-our-priorities)
+- [Strive for improvement](#strive-for-improvement)
+- [Endgame](#endgame)
+- [Appendix: Personal Kanban design patterns](#appendix-personal-kanban-design-patterns)
+
 ## Introduction
 
 We cannot make informed decisions or create a quality product without first understanding _why_ are we doing what we are doing. Lack of context creates waste, resulting in long work days, poor planning, and the inability to keep commitments outside the office.

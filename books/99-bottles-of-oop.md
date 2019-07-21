@@ -1,5 +1,14 @@
 # [99 Bottles of OOP](https://www.goodreads.com/book/show/31183020-99-bottles-of-oop)
 
+- [Introduction](#introduction)
+- [Rediscovering simplicity](#rediscovering-simplicity)
+- [Test driving shameless green](#test-driving-shameless-green)
+- [Unearthing concepts](#unearthing-concepts)
+- [Practising horizontal refactoring](#practising-horizontal-refactoring)
+- [Separating responsibilities](#separating-responsibilities)
+- [Achieving openness](#achieving-openness)
+- [Afterword](#afterword)
+
 ## Introduction
 
 The book is about writing cost-effective, maintainable, and pleasing code.

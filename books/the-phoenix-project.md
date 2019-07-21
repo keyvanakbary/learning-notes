@@ -1,5 +1,10 @@
 # [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 
+- [About the story](#about-the-story)
+- [About DevOps](#about-devops)
+- [The three ways](#the-three-ways)
+- [The four types of work](#the-four-types-of-work)
+
 _The Phoenix Project_ frames how a core, chronic conflict between Development and IT Operations preordains failure for the entire IT organisation.
 
 ## About the story

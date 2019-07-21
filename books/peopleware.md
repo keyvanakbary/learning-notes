@@ -1,5 +1,13 @@
 # [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
 
+- [Preface](#preface)
+- [Managing the human resource](#managing-the-human-resource)
+- [The office environment](#the-office-environment)
+- [The right people](#the-right-people)
+- [Growing productive teams](#growing-productive-teams)
+- [Fertile soil](#fertile-soil)
+- [It's supposed to be fun to work here](#its-supposed-to-be-fun-to-work-here)
+
 ## Preface
 
 The major problems of systems work are not much technological as sociological.

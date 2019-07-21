@@ -1,5 +1,24 @@
 # [Kanban](https://www.goodreads.com/book/show/8086552-Kanban)
 
+- [Solving an agile manager's dilemma](#solving-an-agile-managers-dilemma)
+- [Kanban](#kanban)
+- [Recipe for success](#recipe-for-success)
+- [From the worst to the best in five quarters](#from-the-worst-to-the-best-in-five-quarters)
+- [A continuous improvement culture](#a-continuous-improvement-culture)
+- [Mapping the value stream](#mapping-the-value-stream)
+- [Coordination with Kanban systems](#coordination-with-kanban-systems)
+- [Establishing a delivery cadence](#establishing-a-delivery-cadence)
+- [Establishing an input cadence](#establishing-an-input-cadence)
+- [Setting work-in-progress limits](#setting-work-in-progress-limits)
+- [Establishing service level agreements](#establishing-service-level-agreements)
+- [Metrics and management](#metrics-and-management)
+- [Operations review](#operations-review)
+- [Starting a Kanban change initiative](#starting-a-kanban-change-initiative)
+- [Bottlenecks and non-instant availability](#bottlenecks-and-non-instant-availability)
+- [An economic model for Lean](#an-economic-model-for-lean)
+- [Sources of variability](#sources-of-variability)
+- [Issue management and escalation policies](#issue-management-and-escalation-policies)
+
 ## Solving an agile manager's dilemma
 
 > Our deadlines were set by managers without regard to engineering complexity, risk, or project size.

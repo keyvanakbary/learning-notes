@@ -1,5 +1,14 @@
 # [Distributed Systems Observability](https://www.goodreads.com/book/show/40182805-distributed-systems-observability)
 
+- [The need of observability](#the-need-of-observability)
+- [Monitoring and observability](#monitoring-and-observability)
+- [Coding and testing for observability](#coding-and-testing-for-observability)
+  - [Testing for failure](#testing-for-failure)
+- [The three pillars of observability](#the-three-pillars-of-observability)
+  - [Event logs](#event-logs)
+  - [Metrics](#metrics)
+  - [Tracing](#tracing)
+
 Most failures not addressed by application layers will arise from the complex interactions between various applications.
 
 Observability isn't purely an operational concern.

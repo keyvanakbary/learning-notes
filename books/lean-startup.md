@@ -1,5 +1,17 @@
 # [Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 
+- [Introduction](#introduction)
+- [Lean Startup method](#lean-startup-method)
+- [Define](#define)
+- [Learn](#learn)
+- [Experiment](#experiment)
+- [Leap](#leap)
+- [Test](#test)
+- [Measure](#measure)
+- [Pivot (or persevere)](#pivot-or-persevere)
+- [Accelerate](#accelerate)
+- [Growth](#growth)
+
 ## Introduction
 
 > Hard work and perseverance don’t lead to success. It’s the boring stuff that matters the most

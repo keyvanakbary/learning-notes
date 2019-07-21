@@ -1,5 +1,17 @@
 # [Effective Java](https://www.goodreads.com/book/show/105099.Effective_Java_Programming_Language_Guide)
 
+- [Creating and destroying objects](#creating-and-destroying-objects)
+- [Methods common to all objects](#methods-common-to-all-objects)
+- [Classes and interfaces](#classes-and-interfaces)
+- [Generics](#generics)
+- [Enums and annotations](#enums-and-annotations)
+- [Lambdas and streams](#lambdas-and-streams)
+- [Methods](#methods)
+- [General programming](#general-programming)
+- [Exceptions](#exceptions)
+- [Concurrency](#concurrency)
+- [Serialisation](#serialisation)
+
 ## Creating and destroying objects
 
 ### Consider static factory methods instead of constructors

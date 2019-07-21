@@ -1,5 +1,14 @@
 # [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
 
+- [Don't try](#dont-try)
+- [Happiness is a problem](#happiness-is-a-problem)
+- [You are not special](#you-are-not-special)
+- [The value of suffering](#the-value-of-suffering)
+- [You are always choosing](#you-are-always-choosing)
+- [You're wrong about everything (but so am I)](#youre-wrong-about-everything-but-so-am-i)
+- [Failure is the way forward](#failure-is-the-way-forward)
+- [The importance of saying no](#the-importance-of-saying-no)
+
 ## Don't try
 
 > The real story of Bukowski's success: his comfort with himself as a failure. Bukowski didn't give a fuck about success.

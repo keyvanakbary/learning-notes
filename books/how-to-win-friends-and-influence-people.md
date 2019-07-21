@@ -1,5 +1,10 @@
 # [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People)
 
+- [Preamble](#preamble)
+- [Ways to make people like you](#ways-to-make-people-like-you)
+- [Win people to your way of thinking](#win-people-to-your-way-of-thinking)
+- [Be a leader](#be-a-leader)
+
 ## Preamble
 
 Don’t criticise, condemn or complain. There is nothing else that so kills the ambitions of a person as criticisms from superiors.
