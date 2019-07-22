@@ -1,4 +1,4 @@
-# [Peopleware](https://www.goodreads.com/book/show/67825.Peopleware)
+# [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware)
 
 - [Preface](#preface)
 - [Managing the human resource](#managing-the-human-resource)

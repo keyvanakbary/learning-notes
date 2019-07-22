@@ -5,21 +5,21 @@ Taking notes on books I read, talks I watch and articles I study, recalling them
 ### Book notes
 
 * [99 Bottles of OOP](books/99-bottles-of-oop.md) by **Sandi Metz** and **Katrina Owen**, 2016.
-* [A Guide to the Good Life](books/a-guide-to-the-good-life.md) by **William B. Irvine**, 2008.
+* [A Guide to the Good Life: The Ancient Art of Stoic Joy](books/a-guide-to-the-good-life.md) by **William B. Irvine**, 2008.
 * [Distributed Systems Observability](books/distributed-systems-observability.md) by **Cindy Sridharan**, 2018.
 * [Effective Java](books/effective-java.md) by **Joshua Bloch**, 2001.
 * [Elements of Programming Style](books/elements-of-programming-style.md) by **Brian W. Kernighan** and **P.J. Plauger**, 1988.  
 * [How to Win Friends and Influence People](books/how-to-win-friends-and-influence-people.md) by **Dale Carnegie**, 1936.
-* [Kanban](books/kanban.md) by **David J. Anderson**, 2010.
-* [Lean Startup](books/lean-startup.md) by **Eric Ries**, 2011.
-* [Peopleware](books/peopleware.md) by **Tom DeMarco** and **Timothy R. Lister**, 1999.
-* [Personal Kanban](books/personal-kanban.md) by **Jim Benson** and **Tonianne DeMaria Barry**, 2011.
-* [Screw It, Let's Do It](books/screw-it-lets-do-it.md) by **Richard Branson**, 2006.
-* [Test Driven Development](books/test-driven-development.md) by **Kent Beck**, 2002.
+* [Kanban: Successful Evolutionary Change for Your Technology Business](books/kanban.md) by **David J. Anderson**, 2010.
+* [Peopleware: Productive Projects and Teams](books/peopleware.md) by **Tom DeMarco** and **Timothy R. Lister**, 1999.
+* [Personal Kanban: Mapping Work, Navigating Life](books/personal-kanban.md) by **Jim Benson** and **Tonianne DeMaria Barry**, 2011.
+* [Screw It, Let's Do It: Lessons In Life](books/screw-it-lets-do-it.md) by **Richard Branson**, 2006.
+* [Test Driven Development: By Example](books/test-driven-development.md) by **Kent Beck**, 2002.
 * [The Elements of Style](books/the-elements-of-style.md) by **William Strunk Jr.** and **E.B. White**, 1918.
-* [The Manager's Path](books/the-managers-path.md) by **Camille Fournier**, 2017.
-* [The Phoenix Project](books/the-phoenix-project.md) by **Gene Kim**, **Kevin Behr** and **George Spafford**, 2013.
-* [The Subtle Art of Not Giving a Fuck](books/the-subtle-art-of-not-giving-a-fuck.md) by **Mark Manson**, 2016.
+* [The Lean Startup](books/the-lean-startup.md) by **Eric Ries**, 2011.
+* [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
+* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](books/the-phoenix-project.md) by **Gene Kim**, **Kevin Behr** and **George Spafford**, 2013.
+* [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](books/the-subtle-art-of-not-giving-a-fuck.md) by **Mark Manson**, 2016.
 * [Understanding the Four Rules of Simple Design](books/understanding-the-four-rules-of-simple-design.md) by **Corey Haines**, 2014.
 
 If you are interested in the books I read, [follow me in Goodreads](https://www.goodreads.com/keyvanakbary).

@@ -1,4 +1,4 @@
-# [Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup)
+# [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup)
 
 - [Introduction](#introduction)
 - [Lean Startup method](#lean-startup-method)

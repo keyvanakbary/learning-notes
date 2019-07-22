@@ -1,4 +1,4 @@
-# [The Subtle Art of Not Giving a Fuck](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
+# [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck)
 
 - [Don't try](#dont-try)
 - [Happiness is a problem](#happiness-is-a-problem)

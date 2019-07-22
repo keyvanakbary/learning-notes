@@ -1,4 +1,4 @@
-# [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
+# [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path)
 
 - [Management 101](#management-101)
 - [Mentoring](#mentoring)

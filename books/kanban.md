@@ -1,4 +1,4 @@
-# [Kanban](https://www.goodreads.com/book/show/8086552-Kanban)
+# [Kanban: Successful Evolutionary Change for Your Technology Business](https://www.goodreads.com/book/show/8086552-Kanban)
 
 - [Solving an agile manager's dilemma](#solving-an-agile-managers-dilemma)
 - [Kanban](#kanban)

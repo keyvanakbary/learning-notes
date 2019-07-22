@@ -1,4 +1,4 @@
-# [Screw It, Let's Do It](https://www.goodreads.com/book/show/198863.Screw_It_Let_s_Do_It)
+# [Screw It, Let's Do It: Lessons In Life](https://www.goodreads.com/book/show/198863.Screw_It_Let_s_Do_It)
 
 - [Just do it](#just-do-it)
 - [Have fun](#have-fun)

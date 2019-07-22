@@ -1,4 +1,4 @@
-# [The Phoenix Project](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
+# [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.goodreads.com/book/show/17255186-the-phoenix-project)
 
 - [About the story](#about-the-story)
 - [About DevOps](#about-devops)

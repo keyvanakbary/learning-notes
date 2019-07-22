@@ -1,4 +1,4 @@
-# [Personal Kanban](https://www.goodreads.com/book/show/10419045-personal-kanban)
+# [Personal Kanban: Mapping Work, Navigating Life](https://www.goodreads.com/book/show/10419045-personal-kanban)
 
 - [Introduction](#introduction)
 - [The basics of Personal Kanban](#the-basics-of-personal-kanban)
