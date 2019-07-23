@@ -18,6 +18,7 @@ Taking notes on books I read, talks I watch and articles I study, recalling them
 * [The Elements of Style](books/the-elements-of-style.md) by **William Strunk Jr.** and **E.B. White**, 1918.
 * [The Lean Startup](books/the-lean-startup.md) by **Eric Ries**, 2011.
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
+* [The Manual: A Philosopher's Guide to Life](books/the-manual.md) by **Epictetus** and **Sam Torode**, 2017.
 * [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](books/the-phoenix-project.md) by **Gene Kim**, **Kevin Behr** and **George Spafford**, 2013.
 * [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](books/the-subtle-art-of-not-giving-a-fuck.md) by **Mark Manson**, 2016.
 * [Understanding the Four Rules of Simple Design](books/understanding-the-four-rules-of-simple-design.md) by **Corey Haines**, 2014.
