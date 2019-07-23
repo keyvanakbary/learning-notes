@@ -2,9 +2,31 @@
 
 - [A plan for a living](#a-plan-for-a-living)
 - [The rise of Stoicism](#the-rise-of-stoicism)
+  - [Philosophy takes an interest in life](#philosophy-takes-an-interest-in-life)
+  - [The first stoics](#the-first-stoics)
+  - [Roman Stoicism](#roman-stoicism)
 - [Stoic psychological techniques](#stoic-psychological-techniques)
+  - [Negative visualisation. What's the worst that can happen?](#negative-visualisation-whats-the-worst-that-can-happen)
+  - [The dichotomy of control. On becoming invincible](#the-dichotomy-of-control-on-becoming-invincible)
+  - [Fatalism. Letting go of the past... and the present](#fatalism-letting-go-of-the-past-and-the-present)
+  - [Self-denial. On dealing with the dark side of pleasure](#self-denial-on-dealing-with-the-dark-side-of-pleasure)
+  - [Meditation. Watching ourselves practice Stoicism](#meditation-watching-ourselves-practice-stoicism)
 - [Stoic advice](#stoic-advice)
+  - [Duty. On loving mankind](#duty-on-loving-mankind)
+  - [Social relations. On dealing with other people](#social-relations-on-dealing-with-other-people)
+  - [Insults. On putting up with put-downs](#insults-on-putting-up-with-put-downs)
+  - [Grief. On vanquishing tears with reason](#grief-on-vanquishing-tears-with-reason)
+  - [Anger. On overcoming anti-joy](#anger-on-overcoming-anti-joy)
+  - [Personal values. On seeking fame](#personal-values-on-seeking-fame)
+  - [Personal values. On luxurious living](#personal-values-on-luxurious-living)
+  - [Exile. On surviving a change of place](#exile-on-surviving-a-change-of-place)
+  - [Old age. On being banished to a nursing home](#old-age-on-being-banished-to-a-nursing-home)
+  - [Dying. On a good end to a good life](#dying-on-a-good-end-to-a-good-life)
+  - [On becoming stoic. Start now and prepare to be mocked](#on-becoming-stoic-start-now-and-prepare-to-be-mocked)
 - [Stoicism for modern lives](#stoicism-for-modern-lives)
+  - [The decline of Stoicism](#the-decline-of-stoicism)
+  - [Stoicism reconsidered](#stoicism-reconsidered)
+  - [Practicing Stoicism](#practicing-stoicism)
 - [A Stoic reading program](#a-stoic-reading-program)
 
 ## A plan for a living
@@ -540,7 +562,7 @@ Enjoy the mere fact of being alive, experience joy itself.
 
 ## Stoicism for modern lives
 
-### The decline of stoicism
+### The decline of Stoicism
 
 Increasing corruption and depravity of Roman society made Stoicism, which calls for considerable self-control, unattractive to many Romans. Another theory is that the lack of charismatic teachers of Stoicism after the death of Epictetus caused its decline.
 
