@@ -38,6 +38,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [TDD, where did it all go wrong](talks/tdd-where-did-it-all-go-wrong.md) by **Ian Cooper**, 2013.
 * [The Mess We Are In](talks/the-mess-we-are-in.md) by **Joe Armstrong**, 2014.
 * [The World after Microservice Migration](talks/the-world-after-microservice-migration.md) by **Dejan Mitrovic**, 2018.
+* [What I wish I had known before scaling Uber to 1000 services](talks/what-i-wish-i-had-known-before-scaling-uber-to-1000-services.md) by **Matt Ranney**, 2016.
 
 ### Article notes
 
