@@ -45,6 +45,10 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 
 * [Microservices](articles/microservices.md) by **Martin Fowler**, 2014.  
 
+## Taking notes
+
+If you are interested on my process to take notes, check out [this document](taking-notes.md).
+
 ## Contributing
 
 This is my personal learning space. I keep it for my personal enjoyment, if you are thinking about adding your own summaries it may be a better idea to start your own.
