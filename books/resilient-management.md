@@ -49,7 +49,7 @@ One of your primary jobs is to foster a foundation of trust on your team. To fos
 
 To get to know your teammates as individuals, start from a place of genuine curiosity and authenticity.
 
-Paloma Medina research indicates that humans have six core needs (_BICEPS_). Needs that must be met in order for us to feel save and secure.
+Paloma Medina research indicates that humans have six core needs (_BICEPS_). Needs that must be met in order for us to feel safe and secure.
 
 * **Belonging**, a connection to a community or to a group of people. When you feel rejected or left out from a group, you'll feel threatened.
 * **Improvement/progress**, A sense of making progress, whether for your organisation, your team, or your personal life. People may feel frustrated when their work doesn't affect the greater good, or when there are no enough challenges, or when they change from the maker path to the manager path.
