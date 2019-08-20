@@ -520,10 +520,10 @@ Scheduling and context-switching might not be the source of your energy drain; y
 
 The Eisenhower matrix can help you to figure out what to do with the tasks on your plate.
 
-              | Urgent               | Not urgent
---------------|----------------------|-------------------------------
-Important     | Do these tasks now   | Schedule these tasks for later
-Not important | Delegate these tasks | Eliminate these tasks
+|               | Urgent               | Not urgent
+|---------------|----------------------|-------------------------------
+| Important     | Do these tasks now   | Schedule these tasks for later
+| Not important | Delegate these tasks | Eliminate these tasks
 
 #### Delegating projects
 
