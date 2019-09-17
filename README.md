@@ -5,6 +5,7 @@ Taking notes on books I read, talks I watch and articles I study, recalling them
 ### Books
 
 * [99 Bottles of OOP](books/99-bottles-of-oop.md) by **Sandi Metz** and **Katrina Owen**, 2016.
+* [An Elegant Puzzle: Systems of Engineering Management](books/an-elegant-puzzle.md) by **Will Larson**, 2019.
 * [A Guide to the Good Life: The Ancient Art of Stoic Joy](books/a-guide-to-the-good-life.md) by **William B. Irvine**, 2008.
 * [Designing Data-Intensive Applications](books/designing-data-intensive-applications.md) by **Martin Kleppmann**, 2015.
 * [Distributed Systems Observability](books/distributed-systems-observability.md) by **Cindy Sridharan**, 2018.
