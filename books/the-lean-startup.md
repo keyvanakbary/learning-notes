@@ -71,7 +71,7 @@ Innovation is a bottoms-up, decentralized, and unpredictable thing. It does not 
 ## Learn
 As an engineer or manager people are accustomed to measure progress by making sure work proceeded according to plain, it is high quality and cost fits projections. As an entrepreneur, this might not be the best way of measuring progress. **What if we found ourselves building something that nobody wants?**
 
-If the fundamental goal of entrepreneurship is to engage in organization building under conditions of extreme uncertainty, its most vital function is learning. We must learn what customers really want, not what they say they want or what we thing they should want.
+If the fundamental goal of entrepreneurship is to engage in organization building under conditions of extreme uncertainty, its most vital function is learning. We must learn what customers really want, not what they say they want or what we think they should want.
 
 Validated-learning is not after-the-fact rationalization or a good story designed to hide failure. It's a rigorous method for demonstrating progress. It's a way of demonstrating empirically that a team has discovered valuable truths about a startup's present and future business prospects.
 
