@@ -69,7 +69,7 @@ _Clayton Christensten The Innovator's Dilemma_: Companies very good at increment
 Innovation is a bottoms-up, decentralized, and unpredictable thing. It does not mean it cannot be managed. Cultivating entrepreneurship is the responsibility of senior management. Leadership requires creating conditions that enable employees to do the kinds of experimentation that entrepreneurship requires.
 
 ## Learn
-As an engineer or manager people are accustomed to measure progress by making sure work proceeded according to plain, it is high quality and cost fits projections. As an entrepreneur, this might not be the best way of measuring progress. **What if we found ourselves building something that nobody wants?**
+As an engineer or manager people are accustomed to measure progress by making sure work proceeded according to the plan, it is high quality and cost fits projections. As an entrepreneur, this might not be the best way of measuring progress. **What if we found ourselves building something that nobody wants?**
 
 If the fundamental goal of entrepreneurship is to engage in organization building under conditions of extreme uncertainty, its most vital function is learning. We must learn what customers really want, not what they say they want or what we think they should want.
 
