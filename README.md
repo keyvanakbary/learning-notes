@@ -32,6 +32,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [8 Lines of Code](talks/8-lines-of-code.md) by **Greg Young**, 2011.
 * [Am I senior yet?](talks/am-i-senior-yet.md) by **Katlyn Parvin**, 2016.
 * [Clean Architecture and Design](talks/clean-architecture-and-design.md) by **Robert C. Martin**, 2014.
+* [Everything You Wanted to Know About Distributed Tracing](talks/everything-you-wanted-to-know-about-distributed-tracing.md) by **Hungai Kevin**, 2019.
 * [Grinding the Monolith](talks/grinding-the-monolith.md) by **Michael Nygard**, 2018.
 * [How to Make a Sandwich](talks/how-to-make-a-sandwich.md) by **Dan North**, 2016.
 * [Probabilistic Data Structures](talks/probabilistic-data-structures.md) by **James Stanier**, 2016.
