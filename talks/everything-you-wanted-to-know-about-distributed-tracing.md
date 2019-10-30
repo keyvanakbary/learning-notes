@@ -78,8 +78,6 @@ Method used to profile and monitor applications, especially those built using mi
 
 #### Options
 
-Options
-
 With agent
 * It does bytecode instrumentation and sends the data automatically
 
