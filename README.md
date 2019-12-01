@@ -2,7 +2,7 @@
 
 Taking notes on books I read, talks I watch and articles I study, recalling them right afterwards by creating short summaries, helps a lot on my learning process. Here you'll find some of those little pieces.
 
-### Book notes
+### Books
 
 * [99 Bottles of OOP](books/99-bottles-of-oop.md) by **Sandi Metz** and **Katrina Owen**, 2016.
 * [A Guide to the Good Life: The Ancient Art of Stoic Joy](books/a-guide-to-the-good-life.md) by **William B. Irvine**, 2008.
@@ -21,13 +21,13 @@ Taking notes on books I read, talks I watch and articles I study, recalling them
 * [The Lean Startup](books/the-lean-startup.md) by **Eric Ries**, 2011.
 * [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](books/the-managers-path.md) by **Camille Fournier**, 2017.
 * [The Manual: A Philosopher's Guide to Life](books/the-manual.md) by **Epictetus** and **Sam Torode**, 2017.
-* [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](books/the-phoenix-project.md) by **Gene Kim**, **Kevin Behr** and **George Spafford**, 2013.
+* [The Phoenix Project: A Novel About IT, DevOps](books/the-phoenix-project.md) by **Gene Kim**, **Kevin Behr** and **George Spafford**, 2013.
 * [The Subtle Art of Not Giving a Fuck: A Counterintuitive Approach to Living a Good Life](books/the-subtle-art-of-not-giving-a-fuck.md) by **Mark Manson**, 2016.
 * [Understanding the Four Rules of Simple Design](books/understanding-the-four-rules-of-simple-design.md) by **Corey Haines**, 2014.
 
 If you are interested in the books I read, [follow me in Goodreads](https://www.goodreads.com/keyvanakbary).
 
-### Talk notes
+### Talks
 
 * [8 Lines of Code](talks/8-lines-of-code.md) by **Greg Young**, 2011.
 * [Am I senior yet?](talks/am-i-senior-yet.md) by **Katlyn Parvin**, 2016.
@@ -46,11 +46,11 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [What I Learned Doing 250 Interviews at Google](talks/what-i-learned-doing-250-interviews-at-google.md) by **Moishe Lettvin**, 2014.
 * [What I wish I had known before scaling Uber to 1000 services](talks/what-i-wish-i-had-known-before-scaling-uber-to-1000-services.md) by **Matt Ranney**, 2016.
 
-### Article notes
+### Articles
 
 * [Microservices](articles/microservices.md) by **Martin Fowler**, 2014.
 
-### Paper notes
+### Papers
 
 * [Out of the Tar Pit](papers/out-of-the-tar-pit.md) by **Ben Moseley** and **Peter Marks**, 2006.  
 
