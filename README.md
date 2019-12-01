@@ -48,7 +48,11 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 
 ### Article notes
 
-* [Microservices](articles/microservices.md) by **Martin Fowler**, 2014.  
+* [Microservices](articles/microservices.md) by **Martin Fowler**, 2014.
+
+### Paper notes
+
+* [Out of the Tar Pit](papers/out-of-the-tar-pit.md) by **Ben Moseley** and **Peter Marks**, 2006.  
 
 ## Taking notes
 
