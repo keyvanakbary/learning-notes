@@ -1,0 +1,8 @@
+# Backlog
+
+## Papers
+
+* [Waterfall](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf) by **Winston W. Royce**, 1970.
+* [Big ball of mud](https://joeyoder.com/PDFs/mud.pdf) by **Brian Foote** and **Joseph Yoder**, 1997.
+* [Mentoring: Strategies for building an effective mentoring relationship](http://med.stanford.edu/content/dam/sm/s-spire/documents/Sanfey-2013-Strategies-for-building-an-effective-mentoring-relationship.pdf), by **Hilary Sanfey**, **Celeste Holands**, and **Nancy L. Gantt**, 2013.
+* [Psychological safety and learning behaviour in work teams](http://www.iacmr.org/Conferences/WS2011/Submission_XM/Participant/Readings/Lecture9B_Jing/Edmondson,%20ASQ%201999.pdf) by **Amy Edmonson**, 1999.
