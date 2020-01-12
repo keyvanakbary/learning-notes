@@ -54,6 +54,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 
 * [How Measurable is Success?](papers/how-measurable-is-success.md) by **Chester H. Bartoo**, 1939.
 * [Out of the Tar Pit](papers/out-of-the-tar-pit.md) by **Ben Moseley** and **Peter Marks**, 2006.
+* [Reflections on Trusting Trust](papers/reflections-on-trusting-trust.md) by **Ken Thomson**, 1984.
 
 ## Taking notes
 
