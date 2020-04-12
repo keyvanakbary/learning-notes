@@ -945,7 +945,7 @@ The important thing for leaders to be willing to do in those early days is to pi
 
 Sometimes companies decide to limit the decisions themselves, as in organisation that forgoes titles. Deciding not to decide right now is a popular option for new companies, because it really doesn't matter at the scale of a few people.
 
-**Pretending to lack structure tends to create hidden power structures.** IN [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
+**Pretending to lack structure tends to create hidden power structures.** In [The Tyranny of Structurelessness](http://www.jofreeman.com/joreen/tyranny.htm) Jo Freeman describes a set of circumstances in which the unstructured group can work:
 * It is task oriented. It is the task that basically structures the group.
 * It is relatively small and homogeneous. Homogeneity is necessary to insure that participants have a "common language" for interaction.
 * There is high degree of communication. Information must be passed on to everyone.
@@ -1013,6 +1013,8 @@ Getting started on these documents from scratch is hard. Fortunately there are f
 * **Years of experience.** Distinguish the keystone levels by an expectation of maturity increase, and these tend to correspond with years of experience.
 * **Don't be afraid to evolve over time.** A ladder is a living document that will need to evolve as your company grows.
 
+(Rent the Runaway Ladder](https://dresscode.renttherunway.com/blog/ladder).
+
 ### Cross-functional teams
 
 Who do you work with? Who do you report to? Who do you collaborate with?
@@ -1031,7 +1033,7 @@ The infrastructure team supports both fundamental systems as well as large frame
 
 In technology-focused structures, the focus is on being the best engineer. In product-focused structures, the engineers who have the best product sense will start to emerge as the leaders of the team.
 
-IN the areas where the technology must be rock-solid or exceptionally innovative and cutting-edge, you probably want teams that have more of an engineering focus and that are led by people who can design complex systems.
+In the areas where the technology must be rock-solid or exceptionally innovative and cutting-edge, you probably want teams that have more of an engineering focus and that are led by people who can design complex systems.
 
 ### Developing engineering process
 
