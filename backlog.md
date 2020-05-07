@@ -7,6 +7,7 @@
 
 ## Papers
 
+* [Noise, Cognitive Function, and Worker Productivity](https://joshuatdean.com/wp-content/uploads/2020/02/NoiseCognitiveFunctionandWorkerProductivity.pdf) by **Joshua T. Dean**, 2020
 * [Designing and Deploying Online Field Experiments](https://arxiv.org/pdf/1409.3174.pdf) by **Eytan Bakshy**, **Dean Eckles**, and **Michael S. Bernstein**, 2014.
 * [Waterfall](http://www-scf.usc.edu/~csci201/lectures/Lecture11/royce1970.pdf) by **Winston W. Royce**, 1970.
 * [Big ball of mud](https://joeyoder.com/PDFs/mud.pdf) by **Brian Foote** and **Joseph Yoder**, 1997.
