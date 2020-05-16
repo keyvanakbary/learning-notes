@@ -1,6 +1,6 @@
 # Learning notes
 
-Taking notes on books I read, talks I watch and articles I study, recalling them right afterwards by creating short summaries, helps a lot on my learning process. Here you'll find some of those little pieces.
+Taking notes on books I read, talks I watch, articles I study and papers I love – recalling them right afterwards by creating short summaries – helps a lot on my learning process. Here you'll find some of those little pieces.
 
 ### Books
 
