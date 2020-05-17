@@ -22,7 +22,7 @@ A more grandiose approach precedes two levels of requirement analysis, separated
 
 The iterative relationship between phases can be reflected in the following scheme. Each step progresses and the design is further detailed.
 
-Hopefully the interaction is confined in successive steps
+Hopefully the interaction is confined in successive steps:
 
     System Requirements
         ↖  ↘
@@ -38,7 +38,7 @@ Hopefully the interaction is confined in successive steps
                             ↖  ↘
                             Operations
 
-The problem is that design iterations are never confined to successive steps.
+The problem is that design iterations are never confined to successive steps:
 
     System Requirements
         ↘
