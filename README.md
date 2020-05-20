@@ -53,7 +53,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 
 ### Papers
 
-* [Gender stereotypes about intellectualability emerge early and influence children’s interests](papers/gender-stereotypes-about-intellectualability.md) by **Lin Bian**, **Sarah-Jane Leslie**, and **Andrei Cimpian**, 2017.
+* [Gender Stereotypes About Intellectualability](papers/gender-stereotypes-about-intellectualability.md) by **Lin Bian**, **Sarah-Jane Leslie**, and **Andrei Cimpian**, 2017.
 * [How Measurable is Success?](papers/how-measurable-is-success.md) by **Chester H. Bartoo**, 1939.
 * [Managing The Development of Large Software Systems](papers/managing-the-development-of-large-software-systems.md) by **Winston W. Royce**, 1970.
 * [Out of the Tar Pit](papers/out-of-the-tar-pit.md) by **Ben Moseley** and **Peter Marks**, 2006.
