@@ -15,6 +15,7 @@ Taking notes on books I read, talks I watch, articles I study and papers I love 
 * [Kanban: Successful Evolutionary Change for Your Technology Business](books/kanban.md) by **David J. Anderson**, 2010.
 * [Peopleware: Productive Projects and Teams](books/peopleware.md) by **Tom DeMarco** and **Timothy R. Lister**, 1999.
 * [Personal Kanban: Mapping Work, Navigating Life](books/personal-kanban.md) by **Jim Benson** and **Tonianne DeMaria Barry**, 2011.
+* [Radical Focus: Achieving Your Most Important Goals with Objectives and Key Results](books/radical-focus.md) by **Christina Wodtke**, 2016.
 * [Resilient Management](books/resilient-management.md) by **Lara Hogan**, 2019.
 * [Screw It, Let's Do It: Lessons In Life](books/screw-it-lets-do-it.md) by **Richard Branson**, 2006.
 * [Test Driven Development: By Example](books/test-driven-development.md) by **Kent Beck**, 2002.
