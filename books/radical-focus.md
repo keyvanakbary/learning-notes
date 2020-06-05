@@ -77,7 +77,7 @@ If you select your KRs wisely, you can balance forces like growth and performanc
 
 OKRs are always stretch goals, **KRs should be difficult, not impossible**. A great way to do this is to set a confidence level of five of ten on an OKR. If you want to achieve great things, you have to find a way to make it safe to reach further than anyone has before.
 
-Pushing yourself and your team to bigger things yet not making it impossible. The sweet spot is wen you have 50/50 chance of failing.
+Pushing yourself and your team to bigger things yet not making it impossible. The sweet spot is when you have 50/50 chance of failing.
 
 The company should set an OKR, and then each department should determine how _their_ OKR leads to the company's successful OKR. A team can focus their OKR ona  single Key Result or try to support the entire set.
 
@@ -254,7 +254,7 @@ Coordinating organizational efforts is critical to compete and innovate. Giving 
 * Give yourself three months for an OKR.
 * Keep the metrics out of the Objective.
 * In the weekly check in, open with company OKR, then do groups. Don't do individuals, that's better in private.
-* OKRs cascade; set the company OKRs, the group's/role's, and then individuals.
+* OKRs cascade; set the company OKRs, then group's/role's, and then individuals.
 * OKRs are not the only thing you do; they are the one thing you _must_ do. Don't jam every task into OKRs.
 * The Monday OKR check in is a _conversation_.
 * Encourage employees to suggest company OKRs. OKRs are great bottom up, not just top down.
