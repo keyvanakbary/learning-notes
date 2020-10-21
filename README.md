@@ -39,6 +39,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [How to Make a Sandwich](talks/how-to-make-a-sandwich.md) by **Dan North**, 2016.
 * [Mastering Chaos: A Netflix Guide to Microservices](talks/mastering-chaos-a-netflix-guide-to-microservices.md) by **Josh Evans**, 2017.
 * [Probabilistic Data Structures](talks/probabilistic-data-structures.md) by **James Stanier**, 2016.
+* [Programming Across Paradigms](talks/programming-accross-paradigms.md) by **Anjana Vakil**, 2017.
 * [Refactoring, from good to great](talks/refactoring-from-good-to-great.md) by **Ben Orenstein**, 2012.
 * [Rethinking the developer career path](talks/rethinking-the-developer-career-path.md) by **Randall Koutnik**, 2017.
 * [TDD, where did it all go wrong](talks/tdd-where-did-it-all-go-wrong.md) by **Ian Cooper**, 2013.
