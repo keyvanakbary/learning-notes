@@ -44,6 +44,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [Rethinking the developer career path](talks/rethinking-the-developer-career-path.md) by **Randall Koutnik**, 2017.
 * [TDD, where did it all go wrong](talks/tdd-where-did-it-all-go-wrong.md) by **Ian Cooper**, 2013.
 * [The Art of Destroying Software](talks/the-art-of-destroying-software.md) by **Greg Young**, 2014.
+* [The Do's and Don'ts of Error Handling](talks/the-dos-and-donts-of-error-handling.md) by **Joe Armstrong**, 2018.
 * [The Mess We Are In](talks/the-mess-we-are-in.md) by **Joe Armstrong**, 2014.
 * [The World after Microservice Migration](talks/the-world-after-microservice-migration.md) by **Dejan Mitrovic**, 2018.
 * [What I Learned Doing 250 Interviews at Google](talks/what-i-learned-doing-250-interviews-at-google.md) by **Moishe Lettvin**, 2014.
