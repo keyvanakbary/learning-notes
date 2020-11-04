@@ -27,7 +27,7 @@ We are never going to eliminate failure, systems will be inconsistent. We have t
 
 Why do we have to program differently for local programs to communicate (memory) versus distributed systems (message bus)?
 
-In Object-Oriented Programmin, Alan Kay said that the big idea behind Object-Oriented Programming was "messaging"
+In Object-Oriented Programming, Alan Kay said that the big idea behind Object-Oriented Programming was "messaging"
 
 ## Erlang
 
