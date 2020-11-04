@@ -745,7 +745,7 @@ Every write to the database needs to be processed by every replica. The most com
 
 MySQL, Oracle Data Guard, SQL Server's AlwaysOn Availability Groups, MongoDB, RethinkDB, Espresso, Kafka and RabbitMQ are examples of these kind of databases.
 
-#### Synchronous vs asynchronous
+#### Synchronous vs asynchronous
 
 **The advantage of synchronous replication is that the follower is guaranteed to have an up-to-date copy of the data that is consistent with the leader. The disadvantage is that it the synchronous follower doesn't respond, the write cannot be processed.**
 
@@ -928,7 +928,7 @@ In single-leader the second writer can be blocked and wait the first one to comp
 
 If you want synchronous conflict detection, you might as well use single-leader replication.
 
-##### Conflict avoidance
+##### Conflict avoidance
 
 The simplest strategy for dealing with conflicts is to avoid them. If all writes for a particular record go through the sae leader, then conflicts cannot occur.
 
@@ -1006,11 +1006,11 @@ Once the network interruption is fixed, any writes are sent to the appropriate "
 
 Sloppy quorums are useful for increasing write availability: as long as any _w_ nodes are available, the database can accept writes. This also means that you cannot be sure to read the latest value for a key, because it may have been temporarily written to some nodes outside of _n_.
 
-##### Multi-datacenter operation
+##### Multi-datacenter operation
 
 Each write from a client is sent to all replicas, regardless of datacenter, but the client usually only waits for acknowledgement from a quorum of nodes within its local datacenter so that it is unaffected by delays and interruptions on cross-datacenter link.
 
-#### Detecting concurrent writes
+#### Detecting concurrent writes
 
 In order to become eventually consistent, the replicas should converge toward the same value. If you want to avoid losing data, you application developer, need to know a lot about the internals of your database's conflict handling.
 
