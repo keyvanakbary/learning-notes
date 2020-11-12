@@ -15,7 +15,7 @@
 
 Fixation on the positive only serves to remind us over and over again of what we are not. **No truly happy person feels the need to stand in front of a mirror and recite that she's happy.**
 
-If you're dreaming of something all the time, ten you're reinforcing the same unconscious reality over and over: that you are _not that_.
+If you're dreaming of something all the time, then you're reinforcing the same unconscious reality over and over: that you are _not that_.
 
 Giving a fuck about more stuff is good for business. Giving too many fucks is bad for your mental health. It causes you to become overly attached to the superficial and fake. **The key to a good life is not giving a fuck, giving a fuck about only what is true and immediate and important.**
 
