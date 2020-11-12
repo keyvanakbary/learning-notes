@@ -32,7 +32,7 @@ It's a good idea to come with an agenda of things to discuss.
 
 Good managers will let you know when you screw up. The sooner you know about your bad habits the easier they will be to correct.
 
-**Prise should be public and criticism should be private.**
+**Praise should be public and criticism should be private.**
 
 If you do things apart from code, your manager should help you out to improve in those things. Asking for advice is a great way to show respect to her. **Your manager is your number one ally.**
 
@@ -68,7 +68,7 @@ Consider not only the job, the company and the pay, but also the manager when ev
 
 ### Being a mentor
 
-It is an opportunity in a safe way about the job of management, and the feeling of being responsible for another person. The mentee gets an oversee that is solely focused on him.
+It is an opportunity in a safe way about the job of management, and the feeling of being responsible for another person. The mentee gets a supervisor that is solely focused on him.
 
 #### Mentoring an intern
 
@@ -80,11 +80,11 @@ Try to sit with him as much as possible the first days.
 
 * **Listen carefully.** Listening is one of the basic skills for people management. Listening is the precursor of empathy, which is one of the core skills of a quality manager. When you mentee is speaking to you, pay attention to your behaviour. Listening goes beyond hearing words, people are not usually precise on what they mean. Let your mentee correct you.
 * **Communicate clearly.** Communicate what needs to happen.
-* **Calibrate your response.** On the first weeks of the internship, you'll learn the frequency you need to check in with your mentee to provide the right adjustments.
+* **Calibrate your response.** During the first weeks of the internship, you'll learn the frequency you need to check in with your mentee to provide the right adjustments.
 
 #### Mentoring a new hire
 
-Your job consists in onboarding this person in the company effectively, helping out adjusting to life in the company and building out her network of contacts. There will be many opportunities to clarify many bits of process, culture and jargon that will be completely foreign to a new joiner.
+Your job consists of onboarding this person in the company effectively, helping out adjusting to the life in the company and building out her network of contacts. There will be many opportunities to clarify many bits of process, culture and jargon that will be completely foreign to a new joiner.
 
 Effective teams have good onboarding documents to provide to new hires.
 
@@ -94,20 +94,20 @@ Part of the mentoring is introducing the new person around, bringing this person
 
 The best mentoring relationships evolve naturally and in the context of larger work.
 
-* **When you are a mentor.** Don't do it unless you think it will be rewarding for you and the person you're mentoring. Don't say yes and then fail to actually do the  mentoring work.
+* **When you are a mentor.** Don't do it unless you think it will be rewarding for you and the person you're mentoring. Don't say yes and then fail to actually do the mentoring work.
 * **When you are a mentee.** Think about what you want to get out of this relationship, and come prepared to your sessions. If you don't have time to prepare or you don't think preparing is necessary, ask yourself if mentoring is really something you need at all. Maybe instead you need a friend, or a therapist, or a coach.
 
 ### Good manager, bad manager: the alpha geek
 
-The alpha geek is driven to be the best engineer on the team, to have always the right answer, and to be the person who solves all the hard problems. He values intelligence and technical skill above all other traits. Can't deal with dissent. He has all the answers. **The alpha geek tries to create a culture of excellence, but ends up creating a culture of fear.**
+The alpha geek is driven to be the best engineer on the team, to always have the right answer, and to be the person who solves all the hard problems. He values intelligence and technical skill above all other traits. Can't deal with dissent. He has all the answers. **The alpha geek tries to create a culture of excellence, but ends up creating a culture of fear.**
 
-The alpha geek believes that every developer should know exactly what she knows, and if you don't know something, she will point out your ignorance. She can be very rigid about thing should be done and closed off to new ideas that he didn't come up with.
+The alpha geek believes that every developer should know exactly what she knows, and if you don't know something, she will point out your ignorance. She can be very rigid about how things should be done and closed off to new ideas that she didn't come up with.
 
-**If you have ever wondered why people don't seem to come to you for help despite your clearly strong technical skills, ask yourself whether you're showing some sings of being an alpha geek.**
+**If you have ever wondered why people don't seem to come to you for help despite your clearly strong technical skills, ask yourself whether you're showing some signs of being an alpha geek.**
 
-Mentoring can be a great opportunity to break out that habit. **Practicing the art of teaching can help us learn how to nurture and coach, how to phrase things so that others will listen, instead of just shouting them down.**
+Mentoring can be a great opportunity to break out of that habit. **Practicing the art of teaching can help us learn how to nurture and coach, how to phrase things so that others will listen, instead of just shouting them down.**
 
-**Alpha geeks make absolutely terrible managers.** Better of to give them a focus on technical strategy and system design.
+**Alpha geeks make absolutely terrible managers.** Better off to give them a focus on technical strategies and system design.
 
 ### Tips for the manager of a mentor
 
@@ -115,7 +115,7 @@ What you measure, you improve. You help your team succeed by creating clear, foc
 
 Recognise that the mentor productivity will slow down during the mentoring period. Look for someone that you believe can succeed who wants to distinguish herself beyond her coding ability.
 
-Skills that address emotional needs of people and teams. Because the outcome can be difficult to quantify is often dismissed as less important. Mentors need to be recognised, should be treated as first-class citizen.
+Skills that address emotional needs of people and teams. Because the outcome can be difficult to quantify is often dismissed as less important. Mentors need to be recognised, should be treated as first-class citizens.
 
 Best mentors are going to be people who are further along in their mastery of the job skills that the mentee is trying to develop.
 
@@ -143,10 +143,10 @@ It is very hard to grow past senior engineer 2 without ever having acted as a te
 
 You can't lead without engaging with other people, and people skills should be important, much more than technical expertise. **Tech leads will work on one major new technical skill: project management, or the work of breaking down a project.**
 
-> Being a tech lead is an exercise in influencing without authority. How do I empower my team? I do I remove the obstacles slowing them down?
+> Being a tech lead is an exercise in influencing without authority. How do I empower my team? How do I remove the obstacles slowing them down?
 
 
-### All great tech leads know this one weir trick
+### All great tech leads know this one weird trick
 
 The willingness to step away from the code and figure out how to balance your technical commitments with the work the whole team needs.
 
@@ -154,35 +154,35 @@ You'll often need to balance doing things you know how to do and enjoy doing, su
 
 The worst scheduling mistake is allowing yourself to get pulled randomly into meetings.
 
-It's important to get your team into schedule that allows them to be focused on development for long stretches of time. **Part of your leadership is helping the other stakeholders, such as your boss and the product manager, respect the team's focus.**
+It's important to get your team into a schedule that allows them to be focused on development for long stretches of time. **Part of your leadership is helping the other stakeholders, such as your boss and the product manager, respect the team's focus.**
 
 ### Being a lead 101
 
 #### The main roles of a tech lead
 
-* **Systems architect and business analyst.** Have a good sense of the overall architecture of your systems and a solid understanding of how to design complex software. Understand business requirements and translate them into software.
+* **System architect and business analyst.** Have a good sense of the overall architecture of your systems and a solid understanding of how to design complex software. Understand business requirements and translate them into software.
 * **Project planner.** Breaking down work into rough deliverables. Part of the challenge here is getting as much productive work done in parallel as possible.
-* **Software developer and team leader.** Software developers and leaders write code, communicate challenges and delegate. In your position as tech lead, you should _continue writing code, but not too much_. Start looking for opportunities to _delegate work_.
+* **Software developer and team leader.** Software developers and leaders write code, communicate challenges and delegate. In your position as a tech lead, you should _continue writing code, but not too much_. Start looking for opportunities to _delegate work_.
 
-You have to act as a software developer, a systems architect, a business analyst, and a team leaders who knows when to do something single-handedly, and when to delegate work to others.
+You have to act as a software developer, a system architect, a business analyst, and a team leaders who knows when to do something single-handedly, and when to delegate work to others.
 
 ### Managing projects
 
-When faced with a project with many unknowns and relatively hard deadlines, you'll find agile process tricky.
+When faced with a project with many unknowns and relatively hard deadlines, you'll find agile processes tricky.
 
 You need to understand how to break down work that has complexity beyond the scope of what you can do as an individual.
 
-Hiring for project management is bad, but still project management has to happen. As tech lead, you should be doing it when needed, especially for deeply technical projects.
+Hiring for project management is bad, but still project management has to happen. As a tech lead, you should be doing it when needed, especially for deeply technical projects.
 
-**The value of planning isn't that you exclude the plan perfectly, that you catch every detail beforehand, or that you predict the future; it's that you enforce self-discipline to think about the project in some depth before diving in an seeing what happens.**
+**The value of planning isn't that you execute the plan perfectly, that you catch every detail beforehand, or that you predict the future; it's that you enforce self-discipline to think about the project in some depths before diving in and seeing what happens.**
 
-> Take time to explain. Never hesitate to take the opportunity to explain basics and motivation to senior or junior members. It educates them without making them feel small.
+> Take time to explain. Never hesitate to take the opportunity to explain basics and motivations to senior or junior members. It educates them without making them feel small.
 
 ### Managing a project
 
-1. **Break down the work.** Start breaking down your big deliverable into tasks.
+1. **Break down the work.** Start breaking down your big deliverables into tasks.
 2. **Push through the details and the unknowns.** Work through the unknowns until you really feel that there is no more value to be gained in spending time on them.
-3. **Run the project and adjust  the plan as you go.** The value of planning is that it helps you know how far the project has come, and how far it is from completion.
+3. **Run the project and adjust the plan as you go.** The value of planning is that it helps you know how far the project has come, and how far it is from completion.
 4. **Use the insights gained in the planning process to manage requirement changes.**
 5. **Revisit the details as you get close to completion.** Run a _premortem_, an exercise where you run through all the things that could fail on the launch of the projects. Make a launch plan; make a rollback plan. Celebrate.
 
@@ -192,14 +192,14 @@ The process czar believes that there is is one true process that will solve all 
 
 Engineers sometimes turn into process czars when they become tech leads, seeking out the right tool to solve all issues with planning, focus, time management, and prioritisation.
 
-Process must meet the needs of the team and the work.
+Processes must meet the needs of the team and the work.
 
-**Be careful on relying on process to solve problems that are a result of communication or leadership gaps on your team.** It's a waste of your time to play rules cop, and automation can often make the rules more obvious.
+**Be careful on relying on processes to solve problems that are a result of communication or leadership gaps on your team.** It's a waste of your time to play rule cops, and automation can often make the rules more obvious.
 
 ### How to be a great tech lead
 
 * **Understand architecture.** Take time to understand it. It's almost impossible to lead projects well when you don't understand the architecture you're changing.
-* **Be a team player.** If you're doing all the interesting work yourself, stop. Working on the less exciting, boring or frustrating parts of the code base can teach you a lot about where the process is broken and how to fix it. Also, if you are doing the most boring work, stop that too. You want to encourage others on your team to lear the entire system.
+* **Be a team player.** If you're doing all the interesting work yourself, stop. Working on the less exciting, boring or frustrating parts of the code base can teach you a lot about where the process is broken and how to fix it. Also, if you are doing the most boring work, stop that too. You want to encourage others on your team to learn the entire system.
 * **Lead technical decisions.** Determine which decisions must be made by you, which decisions should be delegated to others with more expertise, and which decisions require the whole team to resolve. Make it clear what the matter under discussion is, and communicate the outcome.
 * **Communicate.** Your productivity is now less important than the productivity of the team. You will pay the price of communication overhead, you represent the team. If one universal talent separates successful leaders it's communication skills. Successful leaders write well, they read carefully, and the get up in front of a group and speak. Don't forget to listen and give others a chance to speak. If you aren't a good note taker, you may need to become one.
 
@@ -237,7 +237,7 @@ One or both parties comes with a list of goals to cover in order of importance. 
 
 Listen to anything your reports want to discuss. Let them drive the meeting. It should be as much as a creative discussion as a planning meeting.
 
-**If you start focusing a lot of energy on hearing reports complaints and commiserating, you're quite possible making the problem worse. There is very little value to repeatedly focusing on drama.**
+**If you start focusing a lot of energy on hearing reports' complaints and commiserating, you're quite possible making the problem worse. There is very little value to repeatedly focusing on drama.**
 
 #### The feedback meeting
 
@@ -289,11 +289,11 @@ Steps you can take to be great at continuous feedback:
 
 ### Performance reviews
 
-Continuous feedback is not a replacement for more formal, 360-based performance review process.
+Continuous feedback is not a replacement for a more formal, 360-based performance review process.
 
 The _360 model_ is a performance review that includes feedback from, in addition to a person's manager, his teammates, anyone who reports to him, and coworkers he regularly interacts with, **as well as a self-review**.
 
-Your job a as a manager is to gather all that feedback together and summarise it into a high-level view of what other people think about your direct reports.
+Your job as a manager is to gather all that feedback together and summarise it into a high-level view of what other people think about your direct reports.
 
 #### Writing a performance review
 
@@ -319,7 +319,7 @@ You might have to provide a _performance improvement plan_, a set of clearly def
 
 One of the basic rules of management is the rule of no surprises, particularly negative ones.
 
-You'll always need to have a record of negative feedback to fire someone in any environment where HR is active. Give people clear improvement feedback in writing, with a timeline for improvement, and have them acknowledge it in writing as well (email is ok).
+You'll always need to have a record of negative feedback to fire someone in any environment where HR is active. Give people clear improvement feedback in writing, with a timeline for improvement, and have them acknowledge it in writing as well (an email is ok).
 
 A final warning: don't put anyone on a plan whom you wouldn't be happy to lose.
 
@@ -353,9 +353,9 @@ It's hard to make up lost time when you stop writing code, and if you do it too 
 
 ### Debugging dysfunctional teams: the basics
 
-* **Not shipping**. The trick is to learn how to balance pushing your team and holding back. Start to push for the removal of bottlenecks. When people are contending for a scare resource, conflicts and unhappiness among team members are almost inevitable.
-* **People drama**. Make it clear that bad behaviour has to change, bring clear examples, and provide corrective feedback quickly after things happen. The best defence is a good offence, quick action is essential.
-* **Unhappiness due to overwork**. If overwork is due to (in)stability of the production system, it's your job as the manager to slow down the product roadmap in order to focus on stability for a while. Measures of alerts, downtime, incidents, and strive to reduce them. Dedicate 20% of your time in every planning sessions to system sustainability (technical debt). For time-critical release you should be playing cheerleader helping out with the work yourself. Order dinner. Tell them you appreciate the hard work. Offer break after the push and make it as fun as you can. You should avoid it next time.
+* **Not shipping**. The trick is to learn how to balance pushing your team and holding back. Start to push for the removal of bottlenecks. When people are contending for a scarce resource, conflicts and unhappiness among team members are almost inevitable.
+* **People drama**. Make it clear that a bad behaviour has to change, bring clear examples, and provide corrective feedback quickly after things happen. The best defence is a good offence, quick actions are essential.
+* **Unhappiness due to overwork**. If overwork is due to (in)stability of the production system, it's your job as the manager to slow down the product roadmap in order to focus on stability for a while. Measures of alerts, downtime, incidents, and strive to reduce them. Dedicate 20% of your time in every planning sessions to system sustainability (technical debt). For time-critical releases you should be playing cheerleader helping out with the work yourself. Order dinner. Tell them you appreciate the hard work. Offer breaks after the push and make it as fun as you can. You should avoid it next time.
 * **Collaboration problems**. Regular touch-bases with the appropriate peers to work through issues. Gather actionable feedback from your team, and have productive conversations about possible improvements. Try to stay positive and supportive of their efforts in public. If your team isn't working well together, look into creating some opportunities for them to hang out.
 
 ### Managing a former peer
@@ -392,7 +392,7 @@ Creating a safe environment for disagreement to work itself out is far better th
 
 * **Don't rely exclusively on consensus or voting**. Don't set people up for votes that you know will fail instead of taking the responsibility as a manager of delivering bad news yourself.
 * **Do set up clear processes to depersonalise decisions**. Start with a shared understanding of the goals, risks and the questions to answer before making a decision.
-* **Don't turn a blind eye to simmering issues**. Conflict avoidance manifests is an inability to address problems until they've gone on for way too long. It's probably an indication that you are not paying attention.
+* **Don't turn a blind eye to simmering issues**. Conflict avoidance manifests as an inability to address problems until they've gone on for way too long. It's probably an indication that you are not paying attention.
 * **Do address issues without courting drama**. The goal is to identify problems that are causing the team to work less effectively together and resolve them, no to become the team's therapist.
 * **Don't take it out on other teams**.
 * **Do remember to be kind**. Your goal as a manager, should not to be _nice_, it should be to be _kind_. Nice is saying "please" and "thank you". It's kind to tell someone who isn't ready for promotion that she isn't ready.
@@ -413,15 +413,15 @@ This is why those who undermine team cohesion are so problematic.
 
 Produces individually outsized results, but is so ego-driven that she creates a mixture of fear and dislike in almost everyone around her.
 
-**It's incredible hard of a manager to justify getting rid of someone who produces great work.**
+**It's incredibly hard of a manager to justify getting rid of someone who produces great work.**
 
 Simply not hire one. Getting rid of brilliant jerks takes a level of management confidence that I think is uncommon. These folks will often get rid of themselves, **it's unlikely that you'll be stupid enough to promote them.**
 
-Simply and openly refuse to tolerate bad behaviour. One of the few instances where "praise in public, criticise in private" is upended. You don't want your culture to mimic, you need to say something in the moment to make the standard clear. If you seem emotional, it may undermine you. **Your first goal is to protect your team as a whole, the second is to protect each individual on the team, and your last priority is protecting yourself.**
+Simply and openly refuse to tolerate bad behaviours. One of the few instances where "praise in public, criticise in private" is upended. You don't want your culture to mimic, you need to say something in the moment to make the standard clear. If you seem emotional, it may undermine you. **Your first goal is to protect your team as a whole, the second is to protect each individual on the team, and your last priority is protecting yourself.**
 
 #### The noncommunicator
 
-The person who hides information from your, from his teammates, from his product manager.
+The person who hides information from you, from his teammates, from his product manager.
 
 You have to nip this information-hiding habit in the bud as soon as possible. He doesn't feel safe sharing his work in progress, and his fear often sets an example for the rest of the team.
 
@@ -451,15 +451,15 @@ Work on at least a couple of features in your first 60 days. Pair with one of th
 
 Understanding details across a couple of teams probably means one important thing: you're not writing (much, any, production).
 
-> The engineering direction leads engineers across multiple product areas, or multiple technology functions. Tech leads and individuals report into them.
+> The engineering director leads engineers across multiple product areas, or multiple technology functions. Tech leads and individuals report into them.
 >
-> The engineering direction is not generally expected to write code on a day-to-day basis, however she will be responsible for their organisation's overall technical competence, guiding and growing it as necessary via training and hiring. They should have a strong technical background and spend some of their time researching new technologies and staying abreast of trends. They should help debug and triage critical systems, and should understand the systems they oversee well enough to perform code reviews. They should contribute to architecture and design efforts primarily by serving as the technical savvy voice.
+> The engineering director is not generally expected to write code on a day-to-day basis, however she will be responsible for their organisation's overall technical competence, guiding and growing it as necessary via training and hiring. They should have a strong technical background and spend some of their time researching new technologies and staying abreast of trends. They should help debug and triage critical systems, and should understand the systems they oversee well enough to perform code reviews. They should contribute to architecture and design efforts primarily by serving as the technical savvy voice.
 >
 > They focus on ensuring that we continually evaluate and refine our development/infrastructure standards. Being responsible for creating high-performance, high-velocity organisations, measuring and iterating on process. They are leaders for recruiting, headcount management and planning, career growth and training for the organisation.
 >
-> They are responsible for creating and growing the next generation of leadership and management talent, and they are obsessed with creating high-functioning, engaged, and motivated organisations.
+> They are responsible for creating and growing the next generation of leadership and management talents, and they are obsessed with creating high-functioning, engaged, and motivated organisations.
 >
-> They both create a strategic and tactical tech roadmap that tackles business needs, efficiencies and revenue, and fundamental technology innovation. Strong communicator being able to explain technical concepts to nontechnical partners.
+> They both create a strategic and tactical tech roadmap that tackles business needs, efficiencies and revenue, and fundamental technology innovation. They are strong communicators being able to explain technical concepts to nontechnical partners.
 
 
 It is very difficult for a person responsible for hands-on management of multiple teams to write code. Debugging and production support are also valuable. You might be more helpful doing pair programming, or fixing minor bugs or features.
@@ -468,14 +468,14 @@ It is very difficult for a person responsible for hands-on management of multipl
 
 One of the critical parts of the job at this level: debugging team issues and keeping your teams producing quality software smoothly.
 
-Even if you don't program on a daily basis, it is strongly advise to code half a day per week on some creative pursuit.
+Even if you don't program on a daily basis, it is strongly advised to code half a day per week on some creative pursuit.
 
 > ### I miss code!
 > _I miss code terribly. Is this a sign that I shouldn't be a manager?_
 >
 > There is a transition period where people question frequently whether they've made a mistake. Management is a job, it is a necessary and important job, and in particular, it's your job now.
 >
-> Writing code is full of quick wines. Management has fewer obvious quick wins. It's natural to feel some longing for simpler times. You can't do everything all at once. Becoming a great manager requires you to focus on the skills of management, and that requires giving up some of your technical focus. It's a tradeoff, and one you'll have to decide if you're up to making.
+> Writing code is full of quick wins. Management has fewer obvious quick wins. It's natural to feel some longing for simpler times. You can't do everything all at once. Becoming a great manager requires you to focus on the skills of management, and that requires giving up some of your technical focus. It's a tradeoff, and one you'll have to decide if you're up to making.
 
 ### Managing your time: what's important, anyway?
 
@@ -488,13 +488,13 @@ Time management is a personal thing. Managing your time comes down to one import
 | Important   | Strategic, make time | Obvious work          |
 | Unimportant | Obvious avoid        | Tempting distractions |
 
-Urgency is often more clearly felt than importance. Email feels urgent, but it isn't urgent. We also tend to substitute _obvious_ for _urgent_ in determining something's value.
+Urgency is often more clearly felt than importance. Emails feel urgent, but they aren't urgent. We also tend to substitute _obvious_ for _urgent_ in determining something's value.
 
-It's likely that you're spending a lot of your time on things that are urgent but only slightly important, and sacrificing things that are important but nor urgent. Important but not urgent is actually preparing for meetings os that you can guide them.
+It's likely that you're spending a lot of your time on things that are urgent but only slightly important, and sacrificing things that are important but not urgent. Important but not urgent is actually preparing for meetings so that you can guide them.
 
-As a manager  of multiple teams, you can win back a lot of time by pushing an efficient meetings culture down to your teams.
+As a manager of multiple teams, you can win back a lot of time by pushing an efficient meeting culture down to your teams.
 
-When you stop going to all of their internal meetings, you run the risk of missing out on the every clues that will help you catch problems early. Your attendance at these meetings is partially to pay attention to the dynamics and morale of your team.
+When you stop going to all of their internal meetings, you run the risk of missing out on the clues that will help you catch problems early. Your attendance at these meetings is partially to pay attention to the dynamics and morale of your team.
 
 Ask yourself: **How important is the thing I'm doing?**
 
@@ -503,7 +503,7 @@ Ask yourself: **How important is the thing I'm doing?**
 
 ### Decisions and delegation
 
-The first several months of managing multiple teams can feel like a death march, even when your hour are not excessive.
+The first several months of managing multiple teams can feel like a death march, even when your hours are not excessive.
 
 The only way out of this situation is to go through it. If you don't feel a little bit overwhelmed, you're likely missing something.
 
@@ -540,17 +540,17 @@ As the popular management book _First, break all the rules._
 
 Interrogate every process to determine the value it should provide, and always ask yourself if it can be automated further.
 
-* **Frequent releases**. Frequency of code change is one of the leading indicators of a healthy engineering team. Par of moving fast requires breaking work down into small chunks. As a technical leader, while you may not be writing code much, you're still responsible for the technical side of getting work done. You're also responsible for keeping your team happy and productive, and often the solution to this is not cheerleading or paying them better or praising them more. **You have to be the advocate and push for technical process improvements that can lead to increased engineer productivity, even if you're not implementing them all yourself.**
+* **Frequent releases**. Frequency of code change is one of the leading indicators of a healthy engineering team. Part of moving fast requires breaking work down into small chunks. As a technical leader, while you may not be writing code much, you're still responsible for the technical side of getting work done. You're also responsible for keeping your team happy and productive, and often the solution to this is not cheerleading or paying them better or praising them more. **You have to be the advocate and push for technical process improvements that can lead to increased engineer productivity, even if you're not implementing them all yourself.**
 * **Frequency of code check-ins**. The importance of breaking stuff into chunks. Engineers who don't write tests often have a harder time breaking down their work, and learning how to test-driven development can help them better at this skill.
 * **Frequency of incidents**. Determining the level of software quality you need for the product you're building and adjusting that measure over time is a technical challenge for you, the manager, to help address. Developers support code or systems they write. Incident management, when it becomes merely reacting to incidents rather than working to reduce them, can turn into a task that diminishes your team's ability to do what they do best.
 
 ### Good manager, bad manager: us versus them, team player.
 
-It can be hard of new managers to create a shared team identity. They unite the team by empathising how this identity is special as compared to other teams. Taking this too far, this identity is used to make the team feel superior to the rest of the company, and the team is more interested in its superiority than the company's goals. This attitude make the team vulnerable of many dysfunctions.
+It can be hard for new managers to create a shared team identity. They unite the team by empathising how this identity is special as compared to other teams. Taking this too far, this identity is used to make the team feel superior to the rest of the company, and the team is more interested in its superiority than the company's goals. This attitude make the team vulnerable of many dysfunctions.
 * **Fragile to the loss of the leader**. When you hire a manager who builds a clique, that clique is likely to dissolve and leave the company if the manager leaves the company.
 * **Resistant to outside ideas**. Miss opportunities to learn and grow.
 * **Empire building**. Leaders who favour and us-versus-them style tend to be empire builders, seeking opportunities to grow their teams and their mandates without concern for what is best for the overall organisation.
-* **Inflexibility**. Struggle against change that comes from outside the group.
+* **Inflexibility**. Struggle against changes that comes from outside the group.
 
 Before you try to change everything to fit your vision, take the time to understand the company's strengths and culture. The trick is not to focus on what's broken, but to identify existing strengths and cultivate them.
 
@@ -587,19 +587,19 @@ This position is the first level in a much bigger game.
 >
 > _I've told my team I have an open-door policy, they can come to me whenever they want to discuss problems._
 >
-> One thing mangers have to keep in mind is that part of their job is to ferret out problems proactively.
+> One thing managers have to keep in mind is that a part of their job is to ferret out problems proactively.
 >
 > The open-door policy is nice in theory, but it takes an extremely brave engineer to willingly take the risk of going to her boss to tell him about problems.
 >
 > When you manage managers, you ultimately evaluate them on the performance of their teams.
 >
-> Part of the job is simply to make sure that your 1-1s have room for real conversation.
+> Part of the job is simply to make sure that your 1-1s have room for real conversations.
 
 ### Skip-level meetings
 
-No one wants to add yet more meetings to their calendar. A skip-level meeting it's a meeting with people who report to people who report to you. Their purpose is to help you get perspective on the health and focus of your teams.
+No one wants to add yet more meetings to their calendar. A skip-level meeting it's a meeting with people who report to people who report to you. Their purpose is to help you get perspectives on the health and focus of your teams.
 
-Is a short 1-1 meeting, held perhaps once a quarter, between the head of an organisation and each person in that organisation. It's a personal relationship between you and everyone in your organisation. It also gives individuals time to ask you questions. Each person should come prepared to focus on what he or she is interested in talking to you about.
+It's a short 1-1 meeting, held perhaps once a quarter, between the head of an organisation and each person in that organisation. It's a personal relationship between you and everyone in your organisation. It also gives individuals time to ask you questions. Each person should come prepared to focus on what he or she is interested in talking to you about.
 
 Possible prompts for a skip-level 1-1:
 * What do you like best/worst about the project you are working on?
@@ -610,12 +610,12 @@ Possible prompts for a skip-level 1-1:
 * How do you think the organisation is doing overall? Anything we could be doing better/more/less?
 * Are there any areas of the business strategy you don't understand?
 * What's keeping you from doing your best work right now?
-How happy (or not) are you working at the company?
+* How (un)happy are you working at the company?
 * What could we do to make working at the company more fun?
 
 If you have a larger organisation, there are other ways to get skip-level time. Like holding lunches with whole teams a couple of times a quarter for each team.
 
-However, people act differently in group scenarios. Is a good opportunity to get a sense for where the team believed their focus needed to be. Some questions that can be used to draw out information:
+However, people act differently in group scenarios. It is a good opportunity to get a sense for where the team believed their focus needed to be. Some questions that can be used to draw out information:
 * What can I, your manager's manager, provide for you or your team? Anything I should be helping with?
 * Is this team working poorly with any other teams, from your perspective?
 * Are there any questions I can answer?
@@ -638,7 +638,7 @@ If the team can't do anything but fight fires, the manager should put together a
 
 You'll need to help your managers, sometimes they won't have the energy to push back against product and they'll need your support.
 
-**Managers need coaching and guidance in the same way that individuals contributors need coaching and guidance.**
+**Managers need coaching and guidance in the same way that individual contributors need coaching and guidance.**
 
 ### Good manager, bad manager: the people pleaser
 
