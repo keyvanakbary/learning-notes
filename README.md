@@ -42,6 +42,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 * [Programming Across Paradigms](talks/programming-accross-paradigms.md) by **Anjana Vakil**, 2017.
 * [Refactoring, from good to great](talks/refactoring-from-good-to-great.md) by **Ben Orenstein**, 2012.
 * [Rethinking the developer career path](talks/rethinking-the-developer-career-path.md) by **Randall Koutnik**, 2017.
+* [Simplicity is Complicated](talks/simplicity-is-complicated.md) by **Rob Pike**, 2015.
 * [TDD, where did it all go wrong](talks/tdd-where-did-it-all-go-wrong.md) by **Ian Cooper**, 2013.
 * [The Art of Destroying Software](talks/the-art-of-destroying-software.md) by **Greg Young**, 2014.
 * [The Do's and Don'ts of Error Handling](talks/the-dos-and-donts-of-error-handling.md) by **Joe Armstrong**, 2018.
@@ -71,6 +72,6 @@ If you are interested on my process to take notes, check out [this document](tak
 
 This is my personal learning space. I keep it for my personal enjoyment, if you are thinking about adding your own summaries it may be a better idea to start your own.
 
-If you have any suggestion for improvement please feel free to open a pull request.
+If you have any suggestions for improvement please feel free to open a pull request.
 
 Thanks!
