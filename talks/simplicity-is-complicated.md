@@ -37,7 +37,7 @@ Close to a fact for computer languages. Consider:
 
 Like disciplines in mathematics. Like, you don't solve Calculus with Algebra even though they share semantics.
 
-## Convergenve and relativity
+## Convergence and relativity
 
 If the languages all converge, we will all think the same.
 
