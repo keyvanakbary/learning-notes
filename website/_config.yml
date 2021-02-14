@@ -1,0 +1,64 @@
+title: Notes
+description: >-
+  Keyvan Akbary learning notes
+permalink: pretty
+
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+theme: just-the-docs
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - docker-compose.yml
+
+titles_from_headings:
+  enabled:     true
+  strip_title: false
+  collections: false
+
+color_scheme: custom
+
+aux_links:
+  "Learning Notes on GitHub":
+    - "//github.com/keyvanakbary/learning-notes"
+
+# Footer "Edit this page on GitHub" link text
+# gh_edit_link: true # show or hide edit this page link
+# gh_edit_link_text: "Edit this page on GitHub."
+# gh_edit_repository: "https://github.com/keyvanakbary/learning-notes" # the github URL for your repo
+# gh_edit_branch: "master" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+# gh_edit_view_mode: "edit"
+
+defaults:
+  - scope:
+      path: "articles"
+    values:
+      parent: Articles
+      nav_exclude: true
+  - scope:
+      path: "books"
+    values:
+      parent: Books
+      nav_exclude: true
+  - scope:
+      path: "talks"
+    values:
+      parent: Talks
+      nav_exclude: true
+  - scope:
+      path: "papers"
+    values:
+      parent: Papers
+      nav_exclude: true

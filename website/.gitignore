@@ -1,0 +1,7 @@
+_sass
+_site
+.sass-cache
+articles
+books
+papers
+talks
