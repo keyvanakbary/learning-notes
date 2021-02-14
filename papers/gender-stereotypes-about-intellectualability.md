@@ -1,0 +1,13 @@
+# [Gender stereotypes about intellectualability emerge early and influence children’s interests](https://sci-hub.uno/10.1126/science.aah6524)
+
+Common stereotypes associate high-level intellectual ability with men more than women. These stereotypes discourage women's pursuit of many prestigious careers. These stereotypes are endorsed by, and influence the interest of, children's as young as 6. Findings suggest that gendered notions of brilliance are acquired early and have an immediate effect on children's interests.
+
+Careers aspirations of young men and women are shaped by societal stereotypes about gender. The stereotype that men are better than women at maths impairs women's performance in this domain, and undermines their interest in mathematics-intensive fields.
+
+It is commonly assumed the high-level cognitive ability is present more often in men than in women. The earlier children acquire the notion that brilliance is a male quality. By the age of 6, girls are less likely than boys to believe that members of their gender are "really, really smart" (child-friendly way of referring to brilliance). **At the age of 6, girls in these studies begin to shy away from novel activities said to be for children who are "really, really smart".**
+
+Results on tests suggest that children's ideas about brilliance exhibit rapid changes over the period from ages 5 to 7. At 5, boys and girls associated brilliance with their own gender to a similar extent. Girls aged 6 and 7 were significantly less likely than boys to associate brilliance with their own gender. Older girls were actually more likely to select girls as having top grades than older boys where to select boys. Consistent with the reality that girls get better grades in school than boys at this age. Girls ideas about who is brilliant are not rooted in their perceptions of who performs well in school.
+
+In another study, there was an investigation whether children's gendered beliefs about brilliance shape their interests. The 6 and 7 year old girls own-gendered brilliance perceptions where lower than boys. These stereotyped beliefs mediated the relationship between children's gender and their interest for brilliant (versus persistent). **Young children's emerging notions about who is likely to be brilliant are one of the factors that guide their decisions about which activities to pursue.**
+
+Women are subject to stronger modesty norms than men, perhaps 6 and 7 year old girl's lower interest in games for brilliant children was due to an increase in concerns about modesty.
