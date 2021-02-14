@@ -1,6 +1,8 @@
-# Learning notes
+# Learning Notes
 
-Taking notes on books I read, talks I watch, articles I study and papers I love – recalling them right afterwards by creating short summaries – helps a lot on my learning process. Here you'll find some of those little pieces.
+Taking notes on books I read, talks I watch, articles I study, and papers I love – recalling them right afterward by creating short summaries – helps a lot in my learning process. Here you'll find some of those little pieces.
+
+If you are looking for an easy way to consume these notes, please check out [keyvanakbary.github.io/learning-notes/](https://keyvanakbary.github.io/learning-notes/).
 
 ### Books
 
@@ -66,11 +68,11 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 
 ## Taking notes
 
-If you are interested on my process to take notes, check out [this document](taking-notes.md).
+If you are interested in my process to take notes, check out [this document](taking-notes.md).
 
 ## Contributing
 
-This is my personal learning space. I keep it for my personal enjoyment, if you are thinking about adding your own summaries it may be a better idea to start your own.
+This is my personal learning space. I keep it for my enjoyment, if you are thinking about adding your summaries it may be a better idea to start your own.
 
 If you have any suggestions for improvement please feel free to open a pull request.
 
