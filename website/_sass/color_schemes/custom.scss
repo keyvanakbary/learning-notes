@@ -1,0 +1,54 @@
+
+// https://github.com/pmarsceill/just-the-docs/blob/master/_sass/support/_variables.scss
+
+$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+Roboto, "Helvetica Neue", Arial, sans-serif;
+$mono-font-family: "SFMono-Regular", Menlo, Consolas, Monospace;
+$root-font-size: 16px; // Base font-size for rems
+$body-line-height: 1.5;
+$content-line-height: 1.7;
+$body-heading-line-height: 1.4;
+
+$font-size-1: 11px;
+$font-size-1-sm: 12px;
+$font-size-2: 13px; //h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 14px; //h5
+$font-size-4: 16px;
+$font-size-5: 18px; //h3
+$font-size-6: 20px; //h2
+$font-size-7: 26px;
+$font-size-8: 34px; //h1
+$font-size-9: 38px;
+$font-size-10: 44px;
+$font-size-10-sm: 50px;
+
+$body-background-color: #1d1f21;
+$sidebar-color: #282a2e;
+
+
+
+$body-text-color: #c5c8c6;
+$body-heading-color: #fff;
+$nav-child-link-color: #fff;
+
+$search-result-preview-color: #fff;
+$search-background-color: #1d1f21;
+
+$link-color: #8abeb7;
+$btn-primary-color: $blue-200;
+$base-button-color: $grey-dk-250;
+
+$code-background-color: darken($body-background-color, 3%);
+
+$table-background-color: darken($body-background-color, 3%);
+$feedback-color: lighten($sidebar-color, 3%);
+
+$border: 1px solid;
+$border-radius: 0px;
+$border-color: lighten($body-background-color, 3%);
+
+$nav-width: 164px;
+$nav-width-md: 148px;
+$content-width: 900px;
+$header-height: 60px;
+$transition-duration: 400ms;
