@@ -14,8 +14,9 @@ SHELL := bash
 MAKEFLAGS += --warn-undefined-variables
 MAKEFLAGS += --no-builtin-rules
 
-
 COMPOSE = docker-compose
+
+RUN_JEKYLL = $(COMPOSE) run -e JEKYLL_UID=$(shell id -u) -e JEKYLL_GID=$(shell id -g) jekyll
 
 # Non file-generating targets
 .PHONY: build server update
@@ -23,10 +24,10 @@ COMPOSE = docker-compose
 default: build
 
 build:
-	$(COMPOSE) run jekyll jekyll build
+	$(RUN_JEKYLL) jekyll build
 
 server:
 	$(COMPOSE) up
 
 update:
-	$(COMPOSE) run jekyll bundle update
+	$(RUN_JEKYLL) bundle update
