@@ -126,7 +126,7 @@ Another approach is to rotate individuals for a fixed period into an area that n
 
 #### More engineers, more problems
 
-Integrating large numbers of engineers is hard. The challenge depends on how quickly you can ramp engineers up ot self-sufficient productivity. You can quickly find a scenario in which untrained engineers increasingly outnumber the trained ones.
+Integrating large numbers of engineers is hard. The challenge depends on how quickly you can ramp engineers up to self-sufficient productivity. You can quickly find a scenario in which untrained engineers increasingly outnumber the trained ones.
 
 It is not just training and hiring tho:
 1. For every additional order of magnitude of engineers, you need to design and maintain a new layer of management.
