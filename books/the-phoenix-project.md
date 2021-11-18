@@ -231,4 +231,4 @@ The practices include: Creating a culture of innovation and risk taking (as oppo
 * **Business projects**. These are business initiatives, of which most Development projects encompass.
 * **Internal IT projects**. Infrastructure or IT Operations projects that business projects might create, as well as internally generated improvement projects. Often these are not centrally tracked anywhere, instead residing with the budget owners. This creates a problem when IT Operations is a bottleneck, because there is no easy way to find out who much of capacity is already committed to internal projects.
 * **Changes**. Generated from the previous two types of work and are typically tracked in a ticketing system.
-* **Unplanned word or recovery work**. Operational incidents and problems. Always come at the expense of other planned work commitments.
+* **Unplanned work or recovery work**. Operational incidents and problems. Always come at the expense of other planned work commitments.
