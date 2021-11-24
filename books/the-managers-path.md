@@ -814,7 +814,7 @@ They want their teams to be happy, but it's important to tie that happiness to a
 
 ### What's a CTO
 
-A CTO is not an engineering role. **CTO is not at the top of the technical ladder, and it is not the natural progression engineers should strive to achieve over the course of their careers.** It's not a role most people who love coding, architecture, and deep technical design would enjoy doing. It follows that the tCTO is not necessarily the best engineer in the company.
+A CTO is not an engineering role. **CTO is not at the top of the technical ladder, and it is not the natural progression engineers should strive to achieve over the course of their careers.** It's not a role most people who love coding, architecture, and deep technical design would enjoy doing. It follows that the CTO is not necessarily the best engineer in the company.
 
 **The CTO should be a strategic technical executive the company needs in its current stage of evolution.**
 
