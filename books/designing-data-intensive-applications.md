@@ -261,7 +261,7 @@ Document databases are sometimes called _schemaless_, but maybe a more appropria
 
 Schema-on-read is similar to dynamic (runtime) type checking, whereas schema-on-write is similar to static (compile-time) type checking.
 
-The schema-on-read approach if the items on the collection don't have all the same structure (heterogeneous)
+The schema-on-read approach is advantageous if the items on the collection don't have all the same structure (heterogeneous)
 * Many different types of objects
 * Data determined by external systems
 
