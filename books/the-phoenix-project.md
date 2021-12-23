@@ -77,7 +77,7 @@ Gathering prerequisites of what you need before you can complete work allows you
 
 ### Resilience
 
-The Third Way is all about ensuring that we're continually putting tension into the system, so that we're continually reinforcing habits and improving something. Resilience engineering is tells us that routinely injecting faults into the system, doing them frequently, to make them less painful.
+The Third Way is all about ensuring that we're continually putting tension into the system, so that we're continually reinforcing habits and improving something. Resilience engineering tells us to routinely inject faults into the system to make them less painful.
 
 
 ### Improvement kata
@@ -88,7 +88,7 @@ A _kata_ is a repetition that creates habits, and habits are what enable mastery
 
 ### Timing handoffs
 
-Just as important as throttling the release of work is managing the handoffs. A critical part of the Second Way is making wait times visible, so you know when your work spends days sitting in someone's queue, or worse, the work has go backward because it doesn't have the parts or requires rework.
+Just as important as throttling the release of work, is managing the handoffs. A critical part of the Second Way is making wait times visible, so you know when your work spends days sitting in someone's queue, or worse, the work has go backward because it doesn't have the parts or requires rework.
 
 ### Scoping error
 
@@ -106,7 +106,7 @@ Getting executives and workers the tools they need to do their jobs is one of ou
 
 ### Managing handoffs
 
-The wait time is the "percentage of time busy" divided by the "percentage of time idle". If a resource is fifty percent busy, then it's fifty percent idle. The wait time is fifty percent divided by percent, so one unit of time. Let's call it one hour. So, on average our task would wait in the queue of one hour before it gets worked.
+The wait time is the "percentage of time busy" divided by the "percentage of time idle". If a resource is fifty percent busy, then it's fifty percent idle. The wait time is fifty percent divided by fifty percent, so one unit of time. Let's call it one hour. So, on average our task would wait in the queue of one hour before it gets worked.
 
 If a resource is ninety percent busy, the wait time is "ninety percent divided by ten percent", or nine hours. A task would wait in the queue nine times longer than if the resource were fifty percent idle.
 
