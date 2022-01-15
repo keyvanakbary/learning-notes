@@ -13,6 +13,7 @@ If you are looking for an easy way to consume these notes, please check out [key
 * [Distributed Systems Observability](books/distributed-systems-observability.md) by **Cindy Sridharan**, 2018.
 * [Effective Java](books/effective-java.md) by **Joshua Bloch**, 2001.
 * [Elements of Programming Style](books/elements-of-programming-style.md) by **Brian W. Kernighan** and **P.J. Plauger**, 1988.
+* [El cerebro del niño explicado a los padres](books/el-cerebro-del-nino-explicado-a-los-padres.md) by **Álvaro de Bilbao**, 2015, 
 * [Escaping the Build Trap](books/escaping-the-build-trap.md) by **Melissa Perri**, 2019.
 * [How to Win Friends and Influence People](books/how-to-win-friends-and-influence-people.md) by **Dale Carnegie**, 1936.
 * [Kanban: Successful Evolutionary Change for Your Technology Business](books/kanban.md) by **David J. Anderson**, 2010.
