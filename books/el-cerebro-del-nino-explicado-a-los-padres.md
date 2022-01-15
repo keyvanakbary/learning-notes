@@ -40,11 +40,11 @@
 
 Todo niño tiende a alcanzar su máximo potencial. La pirámide de Mashlow muestra que una vez que las necesidades básicas de de alimentación, seguridad, cariño y autoestima esten cubiertas, el niño tendrá  mayor capacidad para perseguir y alcanzar todo su potencial.
 
-## 1. El juego como herramienta de educación
+## El juego como herramienta de educación
 
 **El niño percibe el mundo principalmente, a través de las emociones, el juego y el afecto.** Jugar es clave para apoyar el desarrollo intelectual del niño. El cerebro del niño esta diseñado para aprender a través del juego, utilizalo como herramienta de educación. El juego y el contacto físico –mordisqueos, abrazos, besos– despiertan sus emociones. Sientate o túmbate en el suelo, y ponte a su nivel para favorecer el juego e interacción.
 
-### 1.1. La estructura del cerebro
+### La estructura del cerebro
 
 En el cerebro se encuentran unas estructuras más antiguas, altamente especializadas en procesar emociones, y otras más modernas, capaces de complejas operaciones intelectuales.
 * **El cerebro reptiliano** es el más primitivo. Nos permite luchar por nuestra supervivencia. Es el encargado de hacer latir nuestro corazón, respirar, el que regula los estados de alerta o la detección de los cambios de temperatura.
@@ -59,13 +59,13 @@ Reptiliano | Hambre, sueño, dolor. Lloro desconsolado | Satisfacer la necesidad
 Emocional  | Sentirse ilusionado, asustado, frustrado, enrabietado | Ayudarlo a conseguir lo que quiere, a conformarse con lo que no puede tener. Empatizar. Ofrecer seguridad y afecto
 Racional   | Recuerda hechos relevantes, quiere trazar un plan, quiere concentrarse. Se siente insatisfecho | Ayudarlo a pensar, a concentrarse o a recordar. Ayudar a conectar con su cerebro emocional
 
-### 1.2. Cerebro emocional vs racional
+### Cerebro emocional vs racional
 
 No hay correlación entre la inteligencia racional y la emocional. Son areas diferenciadas e independientes del cerebro. Las personas capaces de equilibrar ambas inteligencias no solo son las más felices, sino también aquellas con mayor capacidad de alcanzar sus metas. Una educación equilibrara presta atención a ambas inteligencias.
 
-## 2. Herramientas para educar a nuestros hijos
+## Herramientas para educar a nuestros hijos
 
-### 2.1. Paciencia y comprensión
+### Paciencia y comprensión
 
 Hasta los 18 meses, la relación de los padres con los niños es relativamente sencilla. El cerebro de un niño de dos a tres años no es capaz de hacer muchas de las cosas que los padres creen que puede hacer. La concentración, la persistencia, o el auto-control son tareas difíciles para ellos. Una buena receta es la comprensión y ayuda por parte de los padres en tareas que así lo requieran.
 
@@ -101,7 +101,7 @@ Hay veces que los padres nos equivocamos. Es importante distiguir entre qué es 
 3. Frío o calor, queire una manta
 4. Protección y seguridad, pide que lo abracemos
 
-### 2.2. Empatía
+### Empatía
 
 Para el desarrollo emocional del niño lo más importante es sentirse comprendido. Los objetos físicos son fáciles de contrastar porque solo tiene que estirar el brazo y tocarlos, olfatearlos o escuchar como suenan. Los sentimientos y las emociones son más difíciles de verificar, no hay manera de agarrarlos. **La única manera de que un niño sepa que sus emociones o sentimientos son reales es tener a un adulto a su lado que responda congruentemente a esas necesidades y sentimientos.**
 
@@ -131,7 +131,7 @@ La empatía no solo se refleja con las palabras. Una mirada de comprensión, una
 
 La empatía es una herramienta muy valiosa para ofrecer al niño seguridad y una buena autoestima.
 
-### 2.3. Refuerzo de normas y comportamientos
+### Refuerzo de normas y comportamientos
 
 Ser comprensivo es muy importante, aunque también lo es ayudar al niño a superar obstáculos y a entender las necesidades de los demás así como las normas del juego. Lo primero permite al niño desarrollar su autoestima, lo segundo le permite desarrollar su confianza.
 
@@ -191,7 +191,7 @@ En lugar de decir...                                             | Prueba con ..
 "Muy bien, te has vestido solo. No como otros días"              | "Te has vestido superbien, ¡si, señor!
 "Alicia, lo has hecho muy bien, espero que lo hagas siempre así" | "Alicia, eres una campeona"
 
-### 2.4. Alternativas al castigo
+### Alternativas al castigo
 
 Con excesiva frecuencia, los padres frustrados centran toda su atención en las conductas negativas.
 
@@ -222,7 +222,7 @@ Cuando un niño pega a su hermano, corregir el daño significa pedirle perdón y
 
 > ¿Por qué iba a recogerlo yo si no lo he tirado, y tu tienes manos para hacerlo?
 
-### 2.5. Poner límites sin dramas
+### Poner límites sin dramas
 
 **Los límites son esenciales en la educación del cerebro.** Hay una región en él enteramente dedicada a ello, la región "prefrontal". Sin lugar a dudas la más importante de todas para conseguir la felicidad. Cuando alguien tiene dañada esta región del cerebro no es capaz de regular sus enfados, de respetar los límites de otras personas y de no respetar las normas sociales para conseguir las metas que desea. Estas estructuras han sido desarrolladas durante millones de años para mejorar nuestras posibilidades de supervivencia en sociedad.
 
@@ -261,7 +261,7 @@ Es tan importante el hacer valer los límites como el de saber romperlos. Hay di
 
 **Tener límites que el niño pueda romper cuando nosotros lo concedamos nos va a permitir enseñarle que en la vida hay que ser flexibles, y que algunas normas cambian en función de las circunstancias.**
 
-### 2.6. Comunicación
+### Comunicación
 
 **La comunicación entre padres e hijos es la principal via de desarrollo intelectual durante los primeros años de vida.** La capacidad de comprender y emitir palabras necesita de un estímulo del adulto. La inteligencia es otra habilidad que se desarrolla principalmente gracias a las conversaciones entre padres e hijos.
 
@@ -280,9 +280,9 @@ Cuando el niño entiende que el adulto pide colaboración, la probabilidad de qu
 
 **Es más probable que el niño haga lo que le pedimos si le dejamos cierto grado de libertad en vez de ordenarle hacer cosas.** Parte del truco está en que mientras deciden qué quieren hacer, no son capaces de enfadarse y de pelear contigo. En lugar de decirle "tienes que poner la ropa sucia en el cesto y ponerte el pijama" prueba con "¿que prefieres hacer primero: ponerte el pijama o tirar la ropa sucia al cesto?" Puedes darle a elegir entre lavarse los dientes con pasta de niños o la de mayores, bañarse en la bañera o ducharse, etc.
 
-## 3. Inteligencia emocional
+## Inteligencia emocional
 
-### 3.1. Educar la inteligencia emocional
+### Educar la inteligencia emocional
 
 El cerebro emocional esta presente en todas las acciones de tu vida cotidiana. **Las mayores decisiones que tomamos en nuestra vida son decisiones basadas en la emoción, y solo en un pequeño porcentaje, en la razón.** Las emociones con frecuencia no pueden verse, pero suponen un 70% de la energía cerebral.
 
@@ -290,7 +290,7 @@ Según Goleman en su obra _Inteligencia Emocional_, al igual que tenemos una int
 
 **Las perosnas con mayor inteligencia emocional no solo son más felices, sino que también toman decisiones más acertada, tienen más éxito en los negocios y son mejores líderes.** Además, todo el cerebro intelectual se construye sobre el cerebro emocional.
 
-### 3.2. Vínculo
+### Vínculo
 
 El "vínculo" es la relación que el niño establece con los padres y con el mundo que lo rodea. **El vínculo que se establece entre padres e hijos es la clave de la autoestima.** No hay nada más importante que ayudar a un niño a sentirse bien consigo mismo.
 
@@ -312,7 +312,7 @@ Poned empeño en respetar vuestros pactos y haced de cumplir las promesas una pr
 
 Haz sentir a cada uno de tus hijos que son personas realmente valiosas, míralos como si fueran un verdadero tesoro. Sonríeles. Pasa todo el tiempo que puedas con ellos. Incluyelos en tus planes para que sepan que es un privilegio estar con ellos. Hazles ver y diles que te encanta como son. **No esperes que tus hijos te adoren si tu no les haces sentir primero a ellos que son especiales cada día de sus vidas.**
 
-### 3.3. Confianza
+### Confianza
 
 **No hay nada que haga llegar más lejos a una persona que sentirse capaz de lograr aquello que se propone.** Aunque la confianza tiene un componente genético, cualquier niño gana confianza cuando las condiciones son propicias. todos los niños tienen la capacidad de tener un alto grado de confianza en sí mismos. Solo necesitan las condiciones propicias; sentir la responsabilidad y la confianza de cuantos estén a su alrededor.
 
@@ -353,7 +353,7 @@ Cuanto antes comience a realizarlas, menos duro le parecerá hacerlas y más con
 
 Es habitual que los papás y mamás nos empeñemos en ayudar a nuestros hijos a tomar mejores decisiones. Muchas personas se sienten inseguras a la hora de tomar decisiones. La duda casi nunca parte del lado de la emoción, sino que suele ser un componente que aparece desde la razón. Las decisiones más acertadas suelen provenir del cerebro emocional. **Una buena manera de ayudar a tu hijo a tomar mejores decisiones es dejarlo decidir, permitirle tomar decisiones guiándose por sus instintos y confiar en que aprenda de sus errores. La mejor estrategia consiste en enseñarle a confiar en sí mismo.**
 
-### 3.4. Crecer sin miedos
+### Crecer sin miedos
 
 Una parte esencial del desarrollo de la inteligencia emocional es ser capaces de superar nuestros propios miedos. **La manera en la que el niño aprenda a afrontar los miedos de pequeño va a condicionar su forma de hacerlo cuando sea una persona adulta.**
 
@@ -381,7 +381,7 @@ Imagina que un niño le encanta subirse a las alturas y hacer equlibrios, pero u
 
 Nunca debes forzar al niño en ningún momento. No debemos empujarlo a realizar la acción, ni tirar de su mano. Podemos tomarlo de la mano a modo de acompañamiento, pero debe ser el niño el que dé el primer paso, o al menos el que se deje guiar con suavidad.
 
-## 4. Asertividad
+## Asertividad
 
 La característica común de las personas con una buena inteligencia emocional es que son asertivas. La persona asertiva es capaz de expresar lo que no quiere o no le gusta, y lo que quiere y le gusta, de una forma tan clara como respetuosa.
 
@@ -431,7 +431,7 @@ Haz hincapié en dar a conocer a los participantes sus derechos como personas. C
 
 **Para ayudar a tu hijo a ser asertivo, dale voz cuando necesite hablar y no pueda hacerlo.**
 
-## 5. Sembrar la felicidad
+## Sembrar la felicidad
 
 **El doctor Martin Seligman, fundador de la "psicología positiva" afirma que ser capaces de tolerar la frustración es un seguro frente a la depresión y que los niños de hoy dia no están expuestos a situaciones frustrantes de la misma manera que sus padres o abuelos.** Con internet y el auge de la gratificación instantánea, se han perdido ciertos hábitos que cultivan la capacidad de resistir la frustración como por ejemplo esperar al dia siguiente para hablar con un compañero de clase, o espera a la hora de la tarifa reducida, espera a que nos llegasen las cartas para saber de otros, etc. **El modelo de gratificación instantánea y el avance de nuevas tecnologías, podría tener graves consecuencias en la salud mental de los niños.**
 
@@ -451,7 +451,7 @@ Ayúdalo a engancharse a actividades gratificantes. Aquellas personas que dedica
 
 Puedes ayudarlo a alejarse de aquellas cosas que no le gustan o le hacen sentir mal. Por ejemplo, a veces los niños se obsesionan con un amiguito que no los trata del todo bien, puedes animarlo a jugar con otros niños.
 
-## 6. Desarrollo intelectual
+## Desarrollo intelectual
 
 El cerebro intelectual tiene menor protagonismo en el niño que en el adulto. El mundo que lo rodea es el mejor maestro para el cerebro intelectual. Lo más importante es que el niño tenga oportunidades de explorar en distintos entornos y con distintas personas. Tenemos que tratar de transmitir con éxito todas las claves que van a permitir a vuestro hijo vivir dentro de su cultura.
 
@@ -463,7 +463,7 @@ Una persona puede acumular muchos conocimientos y mostrarse muy inteligente y, s
 
 **Los programas de ordenador diseñados para entrenar el intelecto de los niños no tienen ningún efecto (positivo) en su inteligencia.**
 
-## 7. Atención
+## Atención
 
 La atención es la ventana a través de la cual nos comunicamos con el mundo. Las personas adultas se embarcan en cursos de relajación, yoga o taichi para mantener la amplitud de su atención. Los ejecutivos de las grandes compañías practican *mindfulness*, para mejorar su concentración, creatividad, toma de decisiones y productividad. Sabemos que las aplicaciones el movil, los videojuegos y la televisión no tienen ningún efecto positivo en el cerebro. Lo único que demuestran los estudios es que los niños que practican con juegos por ejemplo es que se vuelven más rápidos y acertados en esos mismos juegos. **Los niños que están en contacto habitual con pantallas de móvil, tabletas u ordenadores son más irritables y tienen peor atención, memoria y concentración.**
 
@@ -483,7 +483,7 @@ Puedes ayudar a tu hijo a desarrollar una atención tranquila creando espacios y
 
 **La concentración es la capacidad de mantener la atención el tiempo preciso para terminar lo que estemos haciendo. Puedes ayudar a tu hijo evitando que se distraiga. Cuando veas que comienza a perder el hilo el interés, redirige rápidamente su atención hacia lo que estaba haciendo.** Intenta siempre conseguir terminar lo que empezasteis juntos. Cuando comience a distraerse, siéntate a su lado y ayúdalo a seguir concentrado. Cuando veas que ya está muy cansado, puedes llegar a un acuerdo respecto a lo que debe completar antes de terminar. Felicítalo, es importante que se sienta satisfecho.
 
-## 8. Memoria
+## Memoria
 
 Una buena memoria significa aprender y recordar con facilidad. Una buena memoria hace que un niño aprenda más rápido y ayuda a que disfrute del proceso de aprendizaje. **La memoria del niño se estructura, principalment, durante los primeros años de vida; los padres son los grandes protagonistas de esta estructuración.**
 
@@ -496,7 +496,7 @@ El desarrollo de la memoria en el niño tiene que ver con las conversaciones mad
 * **Recuerda en positivo**: El cerebro humano tiene una tendencia natural a recordar lo positivo y a desechar los malos momentos, lo que nos ayuda a tener un buen ánimo, buen autoconcepto y a darnos confianza. Cualquier hecho agradable permitirá al niño acceder al recuerdo con mayor facilidad. Los recuerdos de nuestra vida se almacenan en el "precúneo". Cada vez que el niño –y luego el adulto– debe tomar una decisión respecto a si es capaz de emprender un proyecto o de resolver un problema, su cerebro busca en el precúneo recuerdos que avalen su decisión.
 * **Recordar lo negativo**: Con frecuencia el niño resalta situaciones desagradables o injustas de su día. **Es importante que des cabida a esos recuerdos, que ayudes a integrar las experiencias emocionales hablando sobre ellos.** Para su cerebro es importante recordarlos. Recordar los errores y los peligros es un signo de inteligencia porque nos ayuda a prever y a resolver problemas en un futuro.
 
-## 9. Lenguaje
+## Lenguaje
 
 El cerebro del niño va incorporando cada palabra que escucha en todo tipo de conversaciones y contextos. Desde hace miles de años el conocimiento se ha transmitido a través del lenguaje. **El lenguaje tiene una enorme transcendencia en el desarrollo de la inteligencia de tu hijo.** La versalitidad en el lenguaje es una de las habilidades más importantes para el desarrollo de la inteligencia. **De hecho, la riqueza de vocabulario es la variable que más influye en el cociente intelectual.**
 
@@ -518,7 +518,7 @@ El amor por la lectura es algo que se siembre y crece sobre las pantorillas de l
 
 **Cada noche, antes de dormir, repasa el día, añade detalles a sus recuerdos e intenta fijarte en dos o tres cosas buenas o divertidas que ha tenido el día.**
 
-## 10. Inteligencia visual
+## Inteligencia visual
 
 La capacidad para percibir, interpretar y construir figuras en el espacio es un de las seis áreas clave que pueden contribuir al desarrollo intelectual de tu hijo.
 
@@ -538,7 +538,7 @@ No hay ninguna evidencia a favor del uso de aplicaciones y videojuegos en niños
 
 Juega también a hacer caras. Está demostrado que descifrar e interpretar expresiones emocionales ayuda a desarrollar la inteligencia social.
 
-## 11. Autocontrol
+## Autocontrol
 
 Para el cerebro ejercer el autocontrol es extremadamente difícil. Para lograrlo, el lóbulo frontal debe asumir el control absoluto, dominar la parte emocional e instintiva del cerebro y combatir la frustración y el hambre. Es una habilidad de alto nivel que requiere entrenamiento a lo largo de toda la vida.
 
@@ -562,7 +562,7 @@ Tan importante es saber cuando ejercer autocontrol como saber cuando desfogarse.
 
 Exponer al niño a distintas personas, contextos y situaciones e ir explicándole en cada momento cuáles son las normas que imperan, puede ayudarlo a entender los distintos grados de autocontrol que debe mostrar en cada momento. También puedes ayudarlo a saber perder el control al darle rienda suelta cuando pueda tenerla. Dejarlo hacer a sus anchas sin que sienta tu presencia o aprobación. Cuando lo notes cohibido, puedes animarlo a hacer el "tonto" o el "bruto".
 
-## 12. Creatividad
+## Creatividad
 
 El verdadero tesoro de la mente humana es su capacidad para adaptarse y solucionar problemas nuevos. Esto depende en gran medida de la creatividad, que tiene su punto álgido en la infancia y se va perdiendo a medida que el niño crece. Podemos ayudar a nuestros hijos a preservarla para que la disfrute a lo largo de toda su vida.
 
@@ -605,7 +605,7 @@ Atrévete a innovar y utiliza toda tu imaginación cuando juguéis juntos. Puede
 
 **Ayúdalo a conectar. Una de las características de las personas creativas es que son capaces de conectar ideas que parecen inconezas a los ojos de los demás.** Las ideas de los niños son tan originales que a veces los adultos no sabemos apreciar su verdadero valor. Si tu hija lleva un chubasquero de rayas, puedes preguntarle qué otras cosas tienen rayas. Una cebra, un paseo de peatones o un pijama de presidario. La capacidad de saltar de un tema a otro es una de las principales características de las personas más creativas e inteligentes.
 
-## 13. Despedida
+## Despedida
 
 **El uso de aplicaciones puede hacer que el niño pierda el interés por otro tipo de actividades mucho más beneficiosas para su desarrollo. Es mejor que lleguen a sus manos de una manera progresiva y una vez que su cerebro haya desarrollado un poco más su paladar emocional y su capacidad de autocontrol, es decir, a partir de los seis años de edad.**
 
