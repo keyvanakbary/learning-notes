@@ -1,5 +1,31 @@
 # [El Cerebro del Niño Explicado a los Padres](https://www.goodreads.com/book/show/26879065-el-cerebro-del-ni-o-explicado-a-los-padres)
 
+- [El juego como herramienta de educación](#el-juego-como-herramienta-de-educación)
+    - [La estructura del cerebro](#la-estructura-del-cerebro)
+    - [Cerebro emocional vs racional](#cerebro-emocional-vs-racional)
+- [Herramientas para educar a nuestros hijos](#herramientas-para-educar-a-nuestros-hijos)
+    - [Paciencia y comprensión](#paciencia-y-comprensión)
+    - [Empatía](#empatía)
+    - [Refuerzo de normas y comportamientos](#refuerzo-de-normas-y-comportamientos)
+    - [Alternativas al castigo](#alternativas-al-castigo)
+    - [Poner límites sin dramas](#poner-límites-sin-dramas)
+    - [Comunicación](#comunicación)
+- [Inteligencia emocional](#inteligencia-emocional)
+    - [Educar la inteligencia emocional](#educar-la-inteligencia-emocional)
+    - [Vínculo](#vínculo)
+    - [Confianza](#confianza)
+    - [Crecer sin miedos](#crecer-sin-miedos)
+- [Asertividad](#asertividad)
+- [Sembrar la felicidad](#sembrar-la-felicidad)
+- [Desarrollo intelectual](#desarrollo-intelectual)
+- [Atención](#atención)
+- [Memoria](#memoria)
+- [Lenguaje](#lenguaje)
+- [Inteligencia visual](#inteligencia-visual)
+- [Autocontrol](#autocontrol)
+- [Creatividad](#creatividad)
+- [Despedida](#despedida)
+
              ┌─────────────────┐
             ┌┘ AUTOREALIZACIÓN └┐ Explorar, aprender, jugar, crear, descubrir mundo
            ┌┴───────────────────┴┐
