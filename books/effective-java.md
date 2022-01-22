@@ -27,7 +27,7 @@ Advantages:
 * They are not required to create a new object each time they are invoked.
 * They can return an object of any subtype of their return type.
 * The class of the returned object can vary from call to call as a function of the input parameters.
-* The class of the returned object need to exist when the class containing the method is written.
+* The class of the returned object need not to exist when the class containing the method is written.
 
 Disadvantages:
 * Classes that provide only static factory methods without public or protected constructors cannot be subclassed. This is preferable when using composition instead of inheritance.
