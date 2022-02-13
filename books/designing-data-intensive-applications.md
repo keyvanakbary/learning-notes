@@ -213,7 +213,7 @@ _Not Only SQL_ has a few driving forces:
 * Specialised query optimisations
 * Desire for a more dynamic and expressive data model
 
-**With a SQL model, if data is stored in a relational tables, an awkward translation layer is translated, this is called _impedance mismatch_.**
+**With a SQL model, if objects are stored in a relational tables, an awkward translation layer is required, this is called _impedance mismatch_.**
 
 JSON model reduces the impedance mismatch and the lack of schema is often cited as an advantage.
 
