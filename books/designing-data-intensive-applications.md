@@ -225,7 +225,7 @@ If the database itself does not support joins, you have to emulate a join in app
 
 The most popular database for business data processing in the 1970s was the IBM's _Information Management System_ (IMS).
 
-IMS used a _hierarchical model_ and like document databases worked well for one-to-many relationships, but it made many-to-,any relationships difficult, and it didn't support joins.
+IMS used a _hierarchical model_ and like document databases worked well for one-to-many relationships, but it made many-to-many relationships difficult, and it didn't support joins.
 
 #### The network model
 
