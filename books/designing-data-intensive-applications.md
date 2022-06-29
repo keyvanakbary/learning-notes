@@ -1049,7 +1049,7 @@ Replication, for very large datasets or very high query throughput is not suffic
 
 Basically, each partition is a small database of its own.
 
-The main reason for wanting to partition data is _scalability_, query load can be load cabe distributed across many processors. Throughput can be scaled by adding more nodes.
+The main reason for wanting to partition data is _scalability_, query load can be load can be distributed across many processors. Throughput can be scaled by adding more nodes.
 
 
 ### Partitioning and replication
