@@ -1667,7 +1667,7 @@ ZooKeeper and etcd implement total order broadcast.
 
 If every message represents a write to the database, and every replica processes the same writes in the same order, then the replcias will remain consistent with each other (_state machine replication_).
 
-A node is not allowed to retroactgively insert a message into an earlier position in the order if subsequent messages have already been dlivered.
+A node is not allowed to retroactively insert a message into an earlier position in the order if subsequent messages have already been delivered.
 
 Another way of looking at total order broadcast is that it is a way of creating a _log_. Delivering a message is like appending to the log.
 
@@ -1698,7 +1698,7 @@ A transaction either succesfully _commit_, or _abort_. Atomicity prevents half-f
 
 On a single node, transaction commitment depends on the _order_ in which data is writen to disk: first the data, then the commit record.
 
-2PC uses a coordinartor (_transaction manager_). When the application is ready to commit, the coordinator begins phase 1: it sends a _prepare_ request to each of the nodes, asking them whether are able to commit.
+2PC uses a coordinator (_transaction manager_). When the application is ready to commit, the coordinator begins phase 1: it sends a _prepare_ request to each of the nodes, asking them whether are able to commit.
 
 * If all participants reply "yes", the coordinator sends out a _commit_ request in phase 2, and the commit takes place.
 * If any of the participants replies "no", the coordinator sends an _abort_ request to all nodes in phase 2.
@@ -1771,7 +1771,7 @@ Consensus always require a strict majority to operate.
 
 Most consensus algorithms assume a fixed set of nodes that participate in voting, which means that you can't just add or remove nodes in the cluster. _Dynamic membership_ extensions are much less well understood than static membership algorithms.
 
-Consensus systems rely on timeouts to detect failed nodes. In geographically distributed systems, it often happens that a node falsely believes the leader to have failed due to a network issue. This implies frequest leader elecctions resulting in terrible performance, spending more time choosing a leader than doing any useful work.
+Consensus systems rely on timeouts to detect failed nodes. In geographically distributed systems, it often happens that a node falsely believes the leader to have failed due to a network issue. This implies frequent leader elections resulting in terrible performance, spending more time choosing a leader than doing any useful work.
 
 #### Membership and coordination services
 
