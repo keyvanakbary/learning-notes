@@ -1340,7 +1340,7 @@ Several transactions are allowed to concurrently read the same object as long as
 Writers don't just block other writers; they also block readers and vice versa. It protects against all the race conditions discussed earlier.
 
 Blocking readers and writers is implemented by a having lock on each object in the database. The lock is used as follows:
-* if a transaction want sot read an object, it must first acquire a lock in shared mode.
+* if a transaction wants to read an object, it must first acquire a lock in shared mode.
 * If a transaction wants to write to an object, it must first acquire the lock in exclusive mode.
 * If a transaction first reads and then writes an object, it may upgrade its shared lock to an exclusive lock.
 * After a transaction has acquired the lock, it must continue to hold the lock until the end of the transaction (commit or abort). **First phase is when the locks are acquired, second phase is when all the locks are released.**
