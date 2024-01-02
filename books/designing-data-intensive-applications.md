@@ -170,7 +170,7 @@ A good operations team is responsible for
 * Keeping software and platforms up to date
 * Keeping tabs on how different systems affect each other
 * Anticipating future problems
-* Establishing good practices and tools for development
+* Establishing good practices and tools for deployment
 * Perform complex maintenance tasks, like platform migration
 * Maintaining the security of the system
 * Defining processes that make operations predictable
